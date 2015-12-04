@@ -2,7 +2,7 @@
 layout: page
 title: Shanshan Wu
 ---
-  <table width="900" border="0" align="center" cellspacing="0" cellpadding="0">
+  <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
     <tr>
      <td width="67%" valign="middle">
         <p>
