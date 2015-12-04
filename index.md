@@ -2,9 +2,9 @@
 layout: page
 title: Shanshan Wu
 ---
-  <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
+  <table width="700" border="0" align="center" cellspacing="0" cellpadding="0">
     <tr>
-     <td width="67%" valign="middle">
+     <td width="70%" valign="middle">
         <p>
         I am a PhD student in the <a href="https://wncg.org">WNCG</a> at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. I am fortunate to have <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a> and <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> as my advisors. I got my BS degree in 2011 and MS degree in 2014 from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="http://wanglab.sjtu.edu.cn/en/content.aspx?info_lb=472&flag=295">Prof. Xudong Wang</a>. 
        </p>
@@ -14,7 +14,7 @@ title: Shanshan Wu
        Here is my <a href="mailto:shanshan@utexas.edu">Email</a> and <a href="../files/CV.pdf">CV</a>.
         </p>
         </td>
-        <td width="33%">
+        <td width="30%">
         <img src="../images/shanshan.png">
         </td>
       </tr>
