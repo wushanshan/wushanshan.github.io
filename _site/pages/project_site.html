@@ -54,53 +54,59 @@ you follow my
 with just a few modifications.</p>
 
 <p>Go to your local repository and create and switch to an
-“orphan” <code>gh-pages</code> branch. (It’s an “orphan”
+“orphan” <code class="highlighter-rouge">gh-pages</code> branch. (It’s an “orphan”
 branch because it won’t contain the whole history of your project.)</p>
 
-<pre><code>cd my_repo
+<div class="highlighter-rouge"><pre class="highlight"><code>cd my_repo
 git checkout --orphan gh-pages
 </code></pre>
+</div>
 
 <p>Remove <em>everything</em>.</p>
 
-<pre><code>git rm -rf .
+<div class="highlighter-rouge"><pre class="highlight"><code>git rm -rf .
 </code></pre>
+</div>
 
 <p>Now go back one directory and clone
 <a href="http://github.com/kbroman/simple_site">the present repository</a>.</p>
 
-<pre><code>cd ..
+<div class="highlighter-rouge"><pre class="highlight"><code>cd ..
 git clone git://github.com/kbroman/simple_site
 </code></pre>
+</div>
 
-<p>Change into that directory and remove the <code>.git/</code> directory.</p>
+<p>Change into that directory and remove the <code class="highlighter-rouge">.git/</code> directory.</p>
 
-<pre><code>cd simple_site
+<div class="highlighter-rouge"><pre class="highlight"><code>cd simple_site
 \rm -rf .git
 </code></pre>
+</div>
 
 <p>Move all of the stuff from that directory into <em>your</em> repository
-(in the new and empty <code>gh-pages</code> branch).</p>
+(in the new and empty <code class="highlighter-rouge">gh-pages</code> branch).</p>
 
-<pre><code>cd ../my_repo
+<div class="highlighter-rouge"><pre class="highlight"><code>cd ../my_repo
 cp -r ../simple_site/. .
 </code></pre>
+</div>
 
 <p>Edit everything <a href="independent_site.html">as before</a>.
-Commit everything and push the <code>gh-pages</code> branch to github.</p>
+Commit everything and push the <code class="highlighter-rouge">gh-pages</code> branch to github.</p>
 
-<pre><code>git add .
+<div class="highlighter-rouge"><pre class="highlight"><code>git add .
 git commit -m "Initial commit of web site"
 git push origin gh-pages
 </code></pre>
+</div>
 
-<p>Now you’ll switch back-and-forth between the <code>gh-pages</code> branch (to
-edit your website) and the <code>master</code> or other branchs (to edit your
+<p>Now you’ll switch back-and-forth between the <code class="highlighter-rouge">gh-pages</code> branch (to
+edit your website) and the <code class="highlighter-rouge">master</code> or other branchs (to edit your
 project).</p>
 
 <p>Personally, I’ll clone a separate copy of my repository, one directory
-up, called <code>Web/</code>, that is sitting in the <code>gh-pages</code> branch. Then
-rather than using <code>git checkout</code> to switch between the code and the
+up, called <code class="highlighter-rouge">Web/</code>, that is sitting in the <code class="highlighter-rouge">gh-pages</code> branch. Then
+rather than using <code class="highlighter-rouge">git checkout</code> to switch between the code and the
 web, I switch from one directory to another.</p>
 
 <h3 id="up-next">Up next</h3>
@@ -116,7 +122,7 @@ web, I switch from one directory to another.</p>
       <hr>
       <footer>
         <p><small>
-        Last update: Dec. 4, 2015
+        Last update: Jan. 15, 2016
        </small></p>
       </footer>
 
@@ -125,4 +131,8 @@ web, I switch from one directory to another.</p>
     
   </body>
 </html>
+
+var host = "wushanshan.github.io";
+if ((host == window.location.host) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
 

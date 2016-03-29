@@ -55,12 +55,12 @@ you want something else, try the
 <a href="http://pages.github.com">GitHub Pages</a> automatic site generator, or
 look at the <a href="pages/resources.html">resources page</a>.</p>
 
-<p>These GitHub Pages sites are constructed by having a <code>gh-pages</code> branch
+<p>These GitHub Pages sites are constructed by having a <code class="highlighter-rouge">gh-pages</code> branch
 of a GitHub repository, with specific files layed out in a specific
 way. To see the structure of such a repository, look at the
 <a href="http://github.com/kbroman/simple_site">repository for the present site</a>.</p>
 
-<pre><code>_includes/
+<div class="highlighter-rouge"><pre class="highlight"><code>_includes/
 _layouts/
 _plugins/
 assets/
@@ -72,80 +72,83 @@ ReadMe.md
 _config.yml
 index.md
 </code></pre>
+</div>
 
 <p>The directories beginning with an underscore contain materials
 defining the basic layout and style for the site. If you
 <a href="pages/local_test.html">build the site locally</a> (for testing
-purposes), there will also be a <code>_site/</code> directory containing the
+purposes), there will also be a <code class="highlighter-rouge">_site/</code> directory containing the
 actual site (with
 <a href="https://daringfireball.net/projects/markdown/">Markdown</a> files
-converted to html). You don’t want the <code>_site/</code> directory in your
-repository, so include that in the <code>.gitignore</code> file.</p>
+converted to html). You don’t want the <code class="highlighter-rouge">_site/</code> directory in your
+repository, so include that in the <code class="highlighter-rouge">.gitignore</code> file.</p>
 
 <p>The
-<a href="https://github.com/kbroman/simple_site/tree/gh-pages/assets"><code>assets/</code></a>
+<a href="https://github.com/kbroman/simple_site/tree/gh-pages/assets"><code class="highlighter-rouge">assets/</code></a>
 directory contains any non-Markdown materials for the site (e.g.,
 images or example code). These files won’t be touched in the
 conversion but will be just copied over as-is.</p>
 
 <p>The
-<a href="https://github.com/kbroman/simple_site/tree/gh-pages/pages"><code>pages/</code></a>
+<a href="https://github.com/kbroman/simple_site/tree/gh-pages/pages"><code class="highlighter-rouge">pages/</code></a>
 directory contains
 <a href="https://daringfireball.net/projects/markdown/">Markdown</a> files that
 will become html pages on your site.</p>
 
 <p>The
-<a href="https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml"><code>_config.yml</code></a>
+<a href="https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml"><code class="highlighter-rouge">_config.yml</code></a>
 file contains all sorts of configuration parameters (some of which
-you’ll need to modify). The <a href="https://github.com/kbroman/simple_site/blob/gh-pages/Rakefile"><code>Rakefile</code></a> contains instructions for
+you’ll need to modify). The <a href="https://github.com/kbroman/simple_site/blob/gh-pages/Rakefile"><code class="highlighter-rouge">Rakefile</code></a> contains instructions for
 the conversion; you won’t modify this file.</p>
 
 <p>It’s best to always include
-<a href="https://github.com/kbroman/simple_site/tree/gh-pages/License.md"><code>License.md</code></a>
+<a href="https://github.com/kbroman/simple_site/tree/gh-pages/License.md"><code class="highlighter-rouge">License.md</code></a>
 and
-<a href="https://github.com/kbroman/simple_site/tree/gh-pages/ReadMe.md"><code>ReadMe.md</code></a>
+<a href="https://github.com/kbroman/simple_site/tree/gh-pages/ReadMe.md"><code class="highlighter-rouge">ReadMe.md</code></a>
 files. But you wouldn’t need these to be placed on the website; they’d
 just be viewed in the repository on <a href="http://github.com">GitHub</a>. The
-<a href="https://github.com/kbroman/simple_site/tree/gh-pages/_config.yml"><code>_config.yml</code></a>
+<a href="https://github.com/kbroman/simple_site/tree/gh-pages/_config.yml"><code class="highlighter-rouge">_config.yml</code></a>
 file contains
 <a href="https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L5">a line sort of like the following</a>
 (but listing a few more files), indicating files to <em>not</em> move to the
 final site.</p>
 
-<pre><code>exclude: ["ReadMe.md", "Rakefile", "License.md"]
+<div class="highlighter-rouge"><pre class="highlight"><code>exclude: ["ReadMe.md", "Rakefile", "License.md"]
 </code></pre>
+</div>
 
 <p>Finally,
-<a href="https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md"><code>index.md</code></a>
+<a href="https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md"><code class="highlighter-rouge">index.md</code></a>
 is the Markdown version of the main page for your site.</p>
 
 <p>The
-<a href="https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md"><code>index.md</code></a>
+<a href="https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md"><code class="highlighter-rouge">index.md</code></a>
 file and the Markdown files in
-<a href="https://github.com/kbroman/simple_site/blob/gh-pages/pages"><code>pages/</code></a>
+<a href="https://github.com/kbroman/simple_site/blob/gh-pages/pages"><code class="highlighter-rouge">pages/</code></a>
 (e.g.,
 <a href="https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/pages/overview.md">the present page</a>)
 have a header with a particular form:</p>
 
-<pre><code>---
+<div class="highlighter-rouge"><pre class="highlight"><code>---
 layout: page
 title: simple site
 tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 </code></pre>
+</div>
 
 <p>In the conversion of the site from Markdown to html, this bit says
 that the current file is to be converted with the “page”
 layout, and gives the title and the (optional) “tagline.”
-The “<code>description:</code>” part gets converted into
-<code>&lt;meta name="description" content="Minimal tutorial on..."&gt;</code>
+The “<code class="highlighter-rouge">description:</code>” part gets converted into
+<code class="highlighter-rouge">&lt;meta name="description" content="Minimal tutorial on..."&gt;</code>
 which, in principle, may be used in the results of google searches.</p>
 
 <p>The rest is basically plain Markdown, though the present site is
 configured to use <a href="http://kramdown.gettalong.org/">kramdown</a> as the
 Markdown converter (via
-<a href="https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L23">this line in the <code>_config.yml</code> file</a>).
+<a href="https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L23">this line in the <code class="highlighter-rouge">_config.yml</code> file</a>).
 Read about the <a href="http://kramdown.gettalong.org/syntax.html">kramdown syntax</a>
 or just look at the
 <a href="http://kramdown.gettalong.org/quickref.html">quick reference</a>.</p>
@@ -160,7 +163,7 @@ or just look at the
       <hr>
       <footer>
         <p><small>
-        Last update: Dec. 4, 2015
+        Last update: Jan. 15, 2016
        </small></p>
       </footer>
 
@@ -169,4 +172,8 @@ or just look at the
     
   </body>
 </html>
+
+var host = "wushanshan.github.io";
+if ((host == window.location.host) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
 

@@ -72,36 +72,40 @@ folks. Sorry!)</p>
 
 <p>Run the following command:</p>
 
-<pre><code>gem install github-pages
+<div class="highlighter-rouge"><pre class="highlight"><code>gem install github-pages
 </code></pre>
+</div>
 
-<p>This will install the <code>github-pages</code> gem and all dependencies
+<p>This will install the <code class="highlighter-rouge">github-pages</code> gem and all dependencies
 (including <a href="http://jekyllrb.com/">jekyll</a>).</p>
 
 <p>Later, to update the gem, type:</p>
 
-<pre><code>gem update github-pages
+<div class="highlighter-rouge"><pre class="highlight"><code>gem update github-pages
 </code></pre>
+</div>
 
 <h3 id="testing-your-site-locally">Testing your site locally</h3>
 
 <p>To construct and test your site locally, go into the directory and
 type</p>
 
-<pre><code>jekyll build
+<div class="highlighter-rouge"><pre class="highlight"><code>jekyll build
 </code></pre>
+</div>
 
-<p>This will create (or modify) a <code>_site/</code> directory, containing
-everything from <code>assets/</code>, and then the <code>index.md</code> and all
-<code>pages/*.md</code> files, converted to html. (So there’ll be
-<code>_site/index.html</code> and the various <code>_site/pages/*.html</code>.)</p>
+<p>This will create (or modify) a <code class="highlighter-rouge">_site/</code> directory, containing
+everything from <code class="highlighter-rouge">assets/</code>, and then the <code class="highlighter-rouge">index.md</code> and all
+<code class="highlighter-rouge">pages/*.md</code> files, converted to html. (So there’ll be
+<code class="highlighter-rouge">_site/index.html</code> and the various <code class="highlighter-rouge">_site/pages/*.html</code>.)</p>
 
 <p>Type the following in order to “serve” the site.
-This will first run <code>build</code>, and so it does <em>not</em> need to be
-preceded by <code>jekyll build</code>.</p>
+This will first run <code class="highlighter-rouge">build</code>, and so it does <em>not</em> need to be
+preceded by <code class="highlighter-rouge">jekyll build</code>.</p>
 
-<pre><code>jekyll serve
+<div class="highlighter-rouge"><pre class="highlight"><code>jekyll serve
 </code></pre>
+</div>
 
 <p>Now open your browser and go to <a href="http://localhost:4000">http://localhost:4000</a></p>
 
@@ -113,7 +117,7 @@ preceded by <code>jekyll build</code>.</p>
       <hr>
       <footer>
         <p><small>
-        Last update: Dec. 4, 2015
+        Last update: Jan. 15, 2016
        </small></p>
       </footer>
 
@@ -122,4 +126,8 @@ preceded by <code>jekyll build</code>.</p>
     
   </body>
 </html>
+
+var host = "wushanshan.github.io";
+if ((host == window.location.host) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
 
