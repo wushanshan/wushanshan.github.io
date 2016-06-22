@@ -29,7 +29,7 @@ title: Shanshan Wu
         <td width="31%"><img src="../images/onepass.png" alt="pacman" width="160" height="160"></td>
         <td width="69%" valign="center">
         <p>
-           We implement a randomized low-rank approximation algorithm in Spark. We also modify the original two-pass algorithm into a one-pass algorithm for direct low-rank approximation of matrix product. We prove a new spectral norm guarantee for the one-pass algorithm.
+           We design a new one-pass algorithm for directly computing a low-rank approximation of matrix product. Our algorithm achieves a spectral norm guarantee that is comparable to the existing two-pass method. We also implement the algorithm in Apache Spark and demonstrate its computational and statistical performance on real-world and synthetic datasets.
         </p>
         </td>
       </tr>
