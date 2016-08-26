@@ -22,6 +22,17 @@ title: Shanshan Wu
 ---
 
 ## Publications
+<p>
+<b>Single Pass PCA of Matrix Products</b> <a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a><br>
+Shanshan Wu, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
+To appear in NIPS 2016.
+</p>
+
+<p>
+<b>Leveraging Sparsity for Efficient Submodular Data Summarization</b> <br>
+Erik Lindgren, Shanshan Wu, and Alex Dimakis<br>
+To appear in NIPS 2016.
+</p>
 
 <p>
 	<b><a href="../files/nips2015.pdf">Sparse and Greedy: Sparsifying Submodular Facility Location Problems</a></b><br>
@@ -53,7 +64,7 @@ title: Shanshan Wu
 ## Graduate Courses
 
 <p>
-- At UT-Austin: Data Mining (EE380L), Large-Scale Optimization (EE381V), Probability and Stochastic Processes (EE381J), Advanced Algorithms (EE381V), Information Theory (EE381K), <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algorithms: Techniques/Theory (CS388G)</a>, Advanced Probability in Learning, Inference, and Networks (EE381V).
+- At UT-Austin: Data Mining (EE380L), Large-Scale Optimization (EE381V), Probability and Stochastic Processes (EE381J), Advanced Algorithms (EE381V), Information Theory (EE381K), <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algorithms: Techniques/Theory (CS388G)</a>, Advanced Probability in Learning, Inference, and Networks (EE381V), <a href="http://users.ece.utexas.edu/~hvikalo/ee381k6.html">Estimation Theory (EE381K-6)</a>.
 </p>
 <p>
 - At SJTU: Linear Systems, Wireless Communication Theory, Computer Networks, Complex Networks, Random Process, Introduction to Coding and Information Theory.
@@ -62,5 +73,6 @@ title: Shanshan Wu
 - At edX online: <a href="https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x">Scalable Machine Learning (CS190.1x)</a>, <a href="https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x">Introduction to Big Data with Apache Spark (CS100.1x)</a>.
 </p>
 
-
+---
+Last update: Aug. 26, 2016
 
