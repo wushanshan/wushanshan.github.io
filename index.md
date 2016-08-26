@@ -6,7 +6,7 @@ title: Shanshan Wu
     <tr>
      <td width="70%" valign="middle">
         <p>
-        I am a 2nd year PhD student in the <a href="https://wncg.org">WNCG</a> at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. I am fortunate to be advised by <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> and <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. I got my BS degree in 2011 and MS degree in 2014 from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="http://wanglab.sjtu.edu.cn/en/content.aspx?info_lb=472&flag=295">Prof. Xudong Wang</a>. 
+        I am a 3rd year PhD student in the <a href="https://wncg.org">WNCG</a> at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. I am fortunate to be advised by <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> and <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. I got my BS degree in 2011 and MS degree in 2014 from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="http://wanglab.sjtu.edu.cn/en/content.aspx?info_lb=472&flag=295">Prof. Xudong Wang</a>. 
        </p>
        <p>
        My research interests include both theory and practice. For the theory part, I am interested in large-scale data analysis, linear algebra, optimization, and submodular function. For the practice part, I am interested in design and analysis of machine learning algorithms in distributed or parallel systems. I am currently using <a href="https://spark.apache.org">Apache Spark</a> as my experimental platform.
@@ -15,21 +15,6 @@ title: Shanshan Wu
         </td>
         <td width="30%">
         <img src="../images/shanshan.png">
-        </td>
-      </tr>
-      </table>
-
----
-
-## Current Project
-
-<table width="100%" align="center" border="0" cellpadding="20">
-      <tr>
-        <td width="31%"><img src="../images/onepass.png" alt="pacman" width="160" height="160"></td>
-        <td width="69%" valign="center">
-        <p>
-           We design a new one-pass algorithm for directly computing a low-rank approximation of matrix product. Our algorithm achieves a spectral norm guarantee that is comparable to the existing two-pass method. We also implement the algorithm in Apache Spark and demonstrate its computational and statistical performance on real-world and synthetic datasets.
-        </p>
         </td>
       </tr>
       </table>
