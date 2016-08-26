@@ -23,7 +23,8 @@ title: Shanshan Wu
 
 ## Publications
 <p>
-<b>Single Pass PCA of Matrix Products</b> <a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a><br>
+<b>Single Pass PCA of Matrix Products</b> <br>
+<a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a><br>
 Shanshan Wu, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
 To appear in NIPS 2016.
 </p>
@@ -49,7 +50,7 @@ To appear in NIPS 2016.
 
 <p>
 	<b><a href="../files/MU-MIMO.pdf">Performance Study on a CSMA/CA-Based MAC Protocol for Multi-User MIMO Wireless LANs</a></b><br>
-	      <a href="https://github.com/wushanshan/MU-MIMO-WLAN">[Code]<br>
+	      <a href="https://github.com/wushanshan/MU-MIMO-WLAN"></a>[Code]<br>
               Shanshan Wu, Wenguang Mao, and Xudong Wang<br>
               IEEE Transactions on Wireless Communications, 2014.<br>
               An earlier version appears in Proceedings of the IEEE Globecom, 2013.<br>
