@@ -48,7 +48,8 @@ To appear in NIPS 2016.
 </p>
 
 <p>
-	<b><a href="../files/MU-MIMO.pdf">Performance Study on a CSMA/CA-Based MAC Protocol for Multi-User MIMO Wireless LANs</a></b> <a href="https://github.com/wushanshan/MU-MIMO-WLAN">[Code]</a><br>
+	<b><a href="../files/MU-MIMO.pdf">Performance Study on a CSMA/CA-Based MAC Protocol for Multi-User MIMO Wireless LANs</a></b><br>
+	      <a href="https://github.com/wushanshan/MU-MIMO-WLAN">[Code]<br>
               Shanshan Wu, Wenguang Mao, and Xudong Wang<br>
               IEEE Transactions on Wireless Communications, 2014.<br>
               An earlier version appears in Proceedings of the IEEE Globecom, 2013.<br>
@@ -76,6 +77,5 @@ To appear in NIPS 2016.
 ---
 <p>
 Last update: Aug. 26, 2016
-
 
 </p>
