@@ -76,5 +76,6 @@ To appear in NIPS 2016.
 ---
 <p>
 Last update: Aug. 26, 2016
-</p>
 
+
+</p>
