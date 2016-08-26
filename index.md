@@ -38,7 +38,7 @@ To appear in NIPS 2016.
 <p>
 	<b><a href="../files/nips2015.pdf">Sparse and Greedy: Sparsifying Submodular Facility Location Problems</a></b><br>
               Erik Lindgren, Shanshan Wu, and Alex Dimakis<br>
-              NIPS workshop OPT2015. <br>
+              NIPS workshop OPT 2015. <br>
 </p>
 
 <p>
