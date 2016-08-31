@@ -66,7 +66,7 @@ To appear in NIPS 2016.
 ## Graduate Courses
 
 <p>
-- At UT-Austin: Data Mining (EE380L), Large-Scale Optimization (EE381V), Probability and Stochastic Processes (EE381J), Advanced Algorithms (EE381V), Information Theory (EE381K), <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algorithms: Techniques/Theory (CS388G)</a>, Advanced Probability in Learning, Inference, and Networks (EE381V), <a href="http://users.ece.utexas.edu/~hvikalo/ee381k6.html">Estimation Theory (EE381K-6)</a>.
+- At UT-Austin: <a href="http://hercules.ece.utexas.edu/courses/ee380l-f14/">Data Mining (EE380L)</a>, Large-Scale Optimization (EE381V), Probability and Stochastic Processes (EE381J), Advanced Algorithms (EE381V), Information Theory (EE381K), <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algorithms: Techniques/Theory (CS388G)</a>, Advanced Probability in Learning, Inference, and Networks (EE381V), <a href="http://users.ece.utexas.edu/~hvikalo/ee381k6.html">Estimation Theory (EE381K-6)</a>.
 </p>
 <p>
 - At SJTU: Linear Systems, Wireless Communication Theory, Computer Networks, Complex Networks, Random Process, Introduction to Coding and Information Theory.
