@@ -67,28 +67,34 @@ To appear in NIPS 2016.
 ## Graduate Courses at UT-Austin
 
 #### 2016 Fall 
+<p>
 CS395T <a href="http://www.cs.utexas.edu/~ecprice/courses/sublinear/">Sublinear Algorithms</a> (Prof. Eric Price)   
-
+</p>
 #### 2016 Spring
-EE381K-6 <a href="http://users.ece.utexas.edu/~hvikalo/ee381k6.html">Estimation Theory</a> (Prof. Haris Vikalo)      
+<p>
+EE381K-6 <a href="http://users.ece.utexas.edu/~hvikalo/ee381k6.html">Estimation Theory</a> (Prof. Haris Vikalo)<br>       
 *Course project: A Survey of Fast Kernel Sketching Algorithms*     
-
+</p>
 #### 2015 Fall
-EE381V Advanced Probability in Learning, Inference, and Networks (Prof. Sanjay Shakkottai)    
-*Course project: Low-Rank Approximation of Matrix Product in One Pass*     
+<p>
+EE381V Advanced Probability in Learning, Inference, and Networks (Prof. Sanjay Shakkottai)<br>     
+*Course project: Low-Rank Approximation of Matrix Product in One Pass*<br>      
 CS388G <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algorithms: Techniques/Theory</a> (Prof. Vijaya Ramachandran)   
-
+</p>
 #### 2015 Spring
-EE381V Advanced Algorithms (Prof. Evdokia Nikolova)  
-*Course project: Signal Recovery from Permuted Observations*   
-EE381K Information Theory (Prof. Alex Dimakis)   
-
+<p>
+2015 Spring
+EE381V Advanced Algorithms (Prof. Evdokia Nikolova)<br> 
+*Course project: Signal Recovery from Permuted Observations*<br>  
+EE381K Information Theory (Prof. Alex Dimakis) 
+</p>
 #### 2014 Fall  
-EE380L <a href="http://hercules.ece.utexas.edu/courses/ee380l-f14/">Data Mining</a> (Prof. Joydeep Ghosh)    
-*Course project: Ranking by Alternating SVM and Factorization Machine*    
-EE381V Large-Scale Optimization (Prof. Sujay Sanghavi)  
+<p>
+EE380L <a href="http://hercules.ece.utexas.edu/courses/ee380l-f14/">Data Mining</a> (Prof. Joydeep Ghosh)<br>  
+*Course project: Ranking by Alternating SVM and Factorization Machine*<br> 
+EE381V Large-Scale Optimization (Prof. Sujay Sanghavi)<br> 
 EE381J Probability and Stochastic Processes (Prof. Sanjay Shakkottai)
-
+</p>
 ---
 <p>
 Last update: Aug. 26, 2016
