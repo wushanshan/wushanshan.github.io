@@ -72,24 +72,25 @@ CS395T <a href="http://www.cs.utexas.edu/~ecprice/courses/sublinear/">Sublinear 
 <p>
 <b>2016 Spring</b><br>
 EE381K-6 <a href="http://users.ece.utexas.edu/~hvikalo/ee381k6.html">Estimation Theory</a> (Prof. Haris Vikalo)<br>       
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: A Survey of Fast Kernel Sketching Algorithms   
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <a href="../files/EstTheory_project.pdf">A Survey of Fast Kernel Sketching Algorithms</a>   
 </p>
 <p>
 <b>2015 Fall</b><br>
 EE381V Advanced Probability in Learning, Inference, and Networks (Prof. Sanjay Shakkottai)<br>     
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: Low-Rank Approximation of Matrix Product in One Pass<br>      
-CS388G <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algorithms: Techniques/Theory</a> (Prof. Vijaya Ramachandran)   
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <a href="../files/AdvProb_project.pdf">Low-Rank Approximation of Matrix Product in One Pass</a><br>      
+CS388G <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algorithms: Techniques/Theory</a> (Prof. Vijaya Ramachandran)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <a href="../files/Algo_project.pdf">PTAS for the Euclidean Traveling Salesman Problem</a>
 </p>
 <p>
 <b>2015 Spring</b><br>
 EE381V Advanced Algorithms (Prof. Evdokia Nikolova)<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: Signal Recovery from Permuted Observations<br>  
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <a href="../files/AdvAlgo_project.pdf">Signal Recovery from Permuted Observations</a><br>  
 EE381K Information Theory (Prof. Alex Dimakis) 
 </p>
 <p>
 <b>2014 Fall</b><br> 
 EE380L <a href="http://hercules.ece.utexas.edu/courses/ee380l-f14/">Data Mining</a> (Prof. Joydeep Ghosh)<br>  
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: Ranking by Alternating SVM and Factorization Machine<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <a href="../files/DataMining_project.pdf">Ranking by Alternating SVM and Factorization Machine</a><br> 
 EE381V Large-Scale Optimization (Prof. Sujay Sanghavi)<br> 
 EE381J Probability and Stochastic Processes (Prof. Sanjay Shakkottai)
 </p>
