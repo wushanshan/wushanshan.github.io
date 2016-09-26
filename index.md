@@ -82,6 +82,11 @@ CS388G <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algor
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <a href="../files/Algo_project.pdf">PTAS for the Euclidean Traveling Salesman Problem</a>
 </p>
 <p>
+<b>2015 Summer (Taken at edX online)</b><br>
+CS190.1x <a href="https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x">Scalable Machine Learning</a><br>
+CS100.1x <a href="https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x">Introduction to Big Data with Apache Spark</a>
+</p>
+<p>
 <b>2015 Spring</b><br>
 EE381V Advanced Algorithms (Prof. Evdokia Nikolova)<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <a href="../files/AdvAlgo_project.pdf">Signal Recovery from Permuted Observations</a><br>  
