@@ -68,17 +68,21 @@ To appear in NIPS 2016.
 
 #### 2016 Fall 
 CS395T <a href="http://www.cs.utexas.edu/~ecprice/courses/sublinear/">Sublinear Algorithms</a> (Prof. Eric Price)   
+
 #### 2016 Spring
 EE381K-6 <a href="http://users.ece.utexas.edu/~hvikalo/ee381k6.html">Estimation Theory</a> (Prof. Haris Vikalo)      
 *Course project: A Survey of Fast Kernel Sketching Algorithms*     
+
 #### 2015 Fall
 EE381V Advanced Probability in Learning, Inference, and Networks (Prof. Sanjay Shakkottai)    
 *Course project: Low-Rank Approximation of Matrix Product in One Pass*     
 CS388G <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algorithms: Techniques/Theory</a> (Prof. Vijaya Ramachandran)   
+
 #### 2015 Spring
 EE381V Advanced Algorithms (Prof. Evdokia Nikolova)  
 *Course project: Signal Recovery from Permuted Observations*   
 EE381K Information Theory (Prof. Alex Dimakis)   
+
 #### 2014 Fall  
 EE380L <a href="http://hercules.ece.utexas.edu/courses/ee380l-f14/">Data Mining</a> (Prof. Joydeep Ghosh)    
 *Course project: Ranking by Alternating SVM and Factorization Machine*    
