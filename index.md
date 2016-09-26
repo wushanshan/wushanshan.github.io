@@ -82,9 +82,9 @@ CS388G <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algor
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <a href="../files/Algo_project.pdf">PTAS for the Euclidean Traveling Salesman Problem</a>
 </p>
 <p>
-<b>2015 Summer (Online course provided by edX)</b><br>
-CS190.1x <a href="https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x">Scalable Machine Learning</a><br>
-CS100.1x <a href="https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x">Introduction to Big Data with Apache Spark</a>
+<b>2015 Summer (Online courses provided by edX)</b><br>
+CS190.1x <a href="https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x">Scalable Machine Learning</a><br> &nbsp;&nbsp;&nbsp;&nbsp;<a href="../files/Certificate1001x.pdf"><i>Certificate</i></a>
+CS100.1x <a href="https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x">Introduction to Big Data with Apache Spark</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="../files/Certificate1901x.pdf"><i>Certificate</i></a>
 </p>
 <p>
 <b>2015 Spring</b><br>
