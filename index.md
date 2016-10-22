@@ -108,6 +108,12 @@ Teaching Assistant, EE381V (Machine Learning for Large Scale Data), UT-Austin, S
 <p>
 Teaching Assistant, EE313 (Linear Systems and Signals), UT-Austin, Fall 2014. 
 </p>
+<p>
+Teaching Assistant, VE489 (Computer Networks), <a ref="http://umji.sjtu.edu.cn/">UM-SJTU Joint Institute</a>, Summer 2013.
+</p>
+<p>
+Teaching Assistant, VP140 (Physics I), <a ref="http://umji.sjtu.edu.cn/">UM-SJTU Joint Institute</a>, Summer 2009. 
+</p>
 ---
 <p>
 Last update: Aug. 26, 2016
