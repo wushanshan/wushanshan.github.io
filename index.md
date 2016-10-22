@@ -100,6 +100,15 @@ EE381V Large-Scale Optimization (Prof. Sujay Sanghavi)<br>
 EE381J Probability and Stochastic Processes (Prof. Sanjay Shakkottai)
 </p>
 ---
+
+## Teaching Experiences
+<p>
+Teaching Assistant, EE381V (Machine Learning for Large Scale Data), UT-Austin, Spring 2016.  
+</p>
+<p>
+Teaching Assistant, EE313 (Linear Systems and Signals), UT-Austin, Fall 2014. 
+</p>
+---
 <p>
 Last update: Aug. 26, 2016
 
