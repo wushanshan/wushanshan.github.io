@@ -30,7 +30,8 @@ To appear in NIPS 2016.
 </p>
 
 <p>
-<b>Leveraging Sparsity for Efficient Submodular Data Summarization</b> <br>
+<b><a href="http://erikml.com/">Leveraging Sparsity for Efficient Submodular Data Summarization</a></b> <br>
+<a href="https://www.youtube.com/watch?v=9sKLx09bAAE">[Spotlight Video]</a><br>
 Erik Lindgren, Shanshan Wu, and Alex Dimakis<br>
 To appear in NIPS 2016.
 </p>
