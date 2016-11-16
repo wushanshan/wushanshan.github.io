@@ -24,8 +24,7 @@ title: Shanshan Wu
 ## Publications
 <p>
 <b><a href="https://arxiv.org/abs/1610.06656">Single Pass PCA of Matrix Products</a></b> <br>
-<a href="https://github.com/wushanshan/MatrixProductPCA">[Code on GitHub]</a><br>
-<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a><br>
+<a href="https://github.com/wushanshan/MatrixProductPCA">[Code on GitHub]</a>&nbsp;<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a>
 Shanshan Wu, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
 To appear in NIPS 2016.
 </p>
