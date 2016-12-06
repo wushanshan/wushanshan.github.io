@@ -68,7 +68,8 @@ To appear in NIPS 2016.
 ## Graduate Courses at UT-Austin
 <p>
 <b>2016 Fall</b><br>
-CS395T <a href="http://www.cs.utexas.edu/~ecprice/courses/sublinear/">Sublinear Algorithms</a> (Prof. Eric Price)   
+CS395T <a href="http://www.cs.utexas.edu/~ecprice/courses/sublinear/">Sublinear Algorithms</a> (Prof. Eric Price)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <b><a href="../files/RescaledJL_project.pdf">Rescaled JL Embedding</a></b> 
 </p>
 <p>
 <b>2016 Spring</b><br>
