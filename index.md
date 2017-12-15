@@ -23,7 +23,7 @@ title: Shanshan Wu
 
 ## Internships
 <p>
-June 2017 - Aug. 2017: SWE Intern at Google Research, New York City
+June 2017 - August 2017: SWE Intern at Google Research, New York City
 </p>
 <p>
 Jan 2017 - April 2017: Applied Scientiest Intern at Amazon, East Palo Alto
