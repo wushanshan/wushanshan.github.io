@@ -21,6 +21,12 @@ title: Shanshan Wu
 
 ---
 
+## Internships
+June 2017 - Aug. 2017: SWE Intern at Google Research, New York City
+Jan 2017 - April 2017: Applied Scientiest Intern at Amazon, East Palo Alto 
+
+---
+
 ## Publications
 <p>
 <b><a href="https://arxiv.org/abs/1610.06656">Single Pass PCA of Matrix Products</a></b> <br>
