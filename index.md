@@ -9,7 +9,7 @@ title: Shanshan Wu
         I am a 4th year PhD student in the <a href="https://wncg.org">WNCG</a> at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. I am fortunate to be advised by <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> and <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. I got my BS degree in 2011 and MS degree in 2014 from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="http://umji.sjtu.edu.cn/faculty/xudong-wang/">Prof. Xudong Wang</a>. 
        </p>
        <p>
-       My research interests include both theory and practice. For the theory part, I am interested in large-scale data analysis, linear algebra, optimization, and submodular function. For the practice part, I am interested in design and analysis of machine learning algorithms in distributed or parallel systems. I am currently using <a href="https://spark.apache.org">Apache Spark</a> as my experimental platform.
+       My research interests include both theory and practice. For the theory part, I am interested in large-scale data analysis, linear algebra, optimization, and submodular function. For the practice part, I am interested in design and analysis of machine learning algorithms in distributed or parallel systems. I have used <a href="https://spark.apache.org">Apache Spark</a> as my experimental platform.
         </p>
        Here is my <a href="mailto:shanshan@utexas.edu">Email</a>.
         </td>
@@ -128,6 +128,6 @@ Teaching Assistant, VP140 (Physics I), <a href="http://umji.sjtu.edu.cn/">UM-SJT
 </p>
 ---
 <p>
-Last update: Oct. 22, 2016
+Last update: Dec. 16, 2017
 
 </p>
