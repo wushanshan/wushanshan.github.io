@@ -14,7 +14,7 @@ title: Shanshan Wu
        Here is my <a href="mailto:shanshan@utexas.edu">Email</a>.
         </td>
         <td width="30%">
-        <img src="../images/github.jpg">
+        <img src="../images/github_pic.jpg">
         </td>
       </tr>
       </table>
