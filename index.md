@@ -11,7 +11,7 @@ title: Shanshan Wu
        <p>
        My research interests include both theory and practice. For the theory part, I am interested in large-scale data analysis, linear algebra, optimization, and submodular function. For the practice part, I am interested in design and analysis of machine learning algorithms in distributed or parallel systems. I have used <a href="https://spark.apache.org">Apache Spark</a> as my experimental platform.
         </p>
-       Email: <a href="mailto:shanshan@utexas.edu">shanshan@utexas.edu</a>.
+       Email: <a href="mailto:shanshan@utexas.edu">shanshan@utexas.edu</a>
         </td>
         <td width="25%">
         <img src="../images/github_pic.jpg">
