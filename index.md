@@ -23,10 +23,10 @@ title: Shanshan Wu
 
 ## Internships
 <p>
-June 2017 - August 2017: SWE Intern at Google Research, New York City
+June 2017 - August 2017: SWE Intern at Google Research, New York City (with Dmitry Storcheus, Felix Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar)
 </p>
 <p>
-Jan 2017 - April 2017: Applied Scientist Intern at Amazon, East Palo Alto
+Jan 2017 - April 2017: Applied Scientist Intern at Amazon, East Palo Alto (with Hyokun Yun and Anima Anandkumar)
 </p>
 
 ---
