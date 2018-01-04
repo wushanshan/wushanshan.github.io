@@ -26,7 +26,7 @@ title: Shanshan Wu
 <b>June 2017 - August 2017</b>
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;SWE Intern at Google Research, New York City 
+&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern at Google Research, New York City 
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;With Dmitry Storcheus, Felix Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar
