@@ -26,7 +26,7 @@ title: Shanshan Wu
 <b>June 2017 - August 2017</b>
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern at Google Research, New York City
+&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern | Google Research, New York City
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;With Dmitry Storcheus, Felix Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar
@@ -35,7 +35,7 @@ title: Shanshan Wu
 <b>Jan 2017 - April 2017</b>
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;Applied Scientist Intern at Amazon AI, East Palo Alto
+&nbsp;&nbsp;&nbsp;&nbsp;Applied Scientist Intern | Amazon AI, East Palo Alto
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;With Hyokun Yun and Anima Anandkumar
