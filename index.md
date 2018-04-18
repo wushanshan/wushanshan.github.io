@@ -29,6 +29,9 @@ title: Shanshan Wu
 &nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern | Google Research, New York City
 </p>
 <p>
+&nbsp;&nbsp;&nbsp;&nbsp;Representation Learning for High-Dimensioanl Sparse Data	
+</p>
+<p>
 &nbsp;&nbsp;&nbsp;&nbsp;With Dmitry Storcheus, Felix Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar
 </p>
 <p>
@@ -36,6 +39,9 @@ title: Shanshan Wu
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;Applied Scientist Intern | Amazon AI, East Palo Alto
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;Joint Learning for Named Entity Recognition and Neural Machine Translation
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;With Hyokun Yun and Anima Anandkumar
