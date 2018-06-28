@@ -153,6 +153,6 @@ Teaching Assistant, VP140 (Physics I), <a href="http://umji.sjtu.edu.cn/">UM-SJT
 </p>
 ---
 <p>
-Last update: Dec. 16, 2017
+Last update: June 27, 2018
 
 </p>
