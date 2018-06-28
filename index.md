@@ -52,7 +52,7 @@ title: Shanshan Wu
 ## Publications
 <p>
 <b><a href="https://arxiv.org/abs/1806.10175">The Sparse Recovery Autoencoder</a></b> <br>
-<a href="https://github.com/wushanshan/L1AE">[Code]</a>
+<a href="https://github.com/wushanshan/L1AE">[Code]</a><br>
 Shanshan Wu, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar<br>
 preprint
 </p>
