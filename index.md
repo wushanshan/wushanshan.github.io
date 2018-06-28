@@ -32,7 +32,7 @@ title: Shanshan Wu
 &nbsp;&nbsp;&nbsp;&nbsp;Representation Learning for High-Dimensioanl Sparse Data	
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;With Dmitry Storcheus, Felix Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar
+&nbsp;&nbsp;&nbsp;&nbsp;With Dmitry Storcheus, Felix X. Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar
 </p>
 <p>
 <b>Jan 2017 - April 2017</b>
@@ -51,22 +51,29 @@ title: Shanshan Wu
 
 ## Publications
 <p>
+<b><a href="https://arxiv.org/abs/1806.10175">The Sparse Recovery Autoencoder</a></b> <br>
+<a href="https://github.com/wushanshan/L1AE">[Code]</a>
+Shanshan Wu, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar<br>
+preprint
+</p>
+
+<p>
 <b><a href="https://arxiv.org/abs/1610.06656">Single Pass PCA of Matrix Products</a></b> <br>
-<a href="https://github.com/wushanshan/MatrixProductPCA">[Code on GitHub]</a>&nbsp;<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a>&nbsp;<a href="../files/OnePassPCAPoster.pdf">[Poster]</a><br>
+<a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a>&nbsp;<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a>&nbsp;<a href="../files/OnePassPCAPoster.pdf">[Poster]</a><br>
 Shanshan Wu, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
-To appear in NIPS 2016.
+NIPS 2016.
 </p>
 
 <p>
 <b><a href="http://erikml.com/leveraging-sparsity.pdf">Leveraging Sparsity for Efficient Submodular Data Summarization</a></b> <br>
 <a href="https://www.youtube.com/watch?v=9sKLx09bAAE">[Spotlight Video]</a><br>
 Erik Lindgren, Shanshan Wu, and Alex Dimakis<br>
-To appear in NIPS 2016.
+NIPS 2016.
 </p>
 
 <p>
 	<b><a href="../files/nips2015.pdf">Sparse and Greedy: Sparsifying Submodular Facility Location Problems</a></b><br>
-	<a href="https://github.com/ErikML/sfl-easylsh">[Code on GitHub]</a><br>
+	<a href="https://github.com/ErikML/sfl-easylsh">[Code]</a><br>
               Erik Lindgren, Shanshan Wu, and Alex Dimakis<br>
               NIPS workshop OPT 2015. <br>
 </p>
@@ -80,7 +87,7 @@ To appear in NIPS 2016.
 
 <p>
 	<b><a href="../files/MU-MIMO.pdf">Performance Study on a CSMA/CA-Based MAC Protocol for Multi-User MIMO Wireless LANs</a></b><br>
-	      <a href="https://github.com/wushanshan/MU-MIMO-WLAN">[Code on GitHub]</a><br>
+	      <a href="https://github.com/wushanshan/MU-MIMO-WLAN">[Code]</a><br>
               Shanshan Wu, Wenguang Mao, and Xudong Wang<br>
               IEEE Transactions on Wireless Communications, 2014.<br>
               An earlier version appears in Proceedings of the IEEE Globecom, 2013.<br>
