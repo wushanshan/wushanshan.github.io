@@ -6,7 +6,7 @@ title: Shanshan Wu
     <tr>
      <td width="70%" valign="middle">
         <p>
-        I am a 4th year PhD student in the ECE Department at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. I am fortunate to be advised by <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> and <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. I got my BS degree in 2011 and MS degree in 2014 from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="http://umji.sjtu.edu.cn/faculty/xudong-wang/">Xudong Wang</a>. 
+        I am a 5th year PhD student in the ECE Department at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. I am fortunate to be advised by <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> and <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. I got my BS degree in 2011 and MS degree in 2014 from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="http://umji.sjtu.edu.cn/faculty/xudong-wang/">Xudong Wang</a>. 
        </p>
        <p>
        My research interests include both theory and practice. For the theory part, I am interested in large-scale data analysis, linear algebra, optimization, and submodular function. For the practice part, I am interested in design and analysis of machine learning algorithms in distributed or parallel systems. I have used <a href="https://spark.apache.org">Apache Spark</a> as my experimental platform.
@@ -22,6 +22,18 @@ title: Shanshan Wu
 ---
 
 ## Internships
+<p>
+<b>June 2018 - August 2018</b>
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern | Google Research, New York City
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;Boosting Random Features	
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;With Petros Mol and Natalia Ponomareva
+</p>
 <p>
 <b>June 2017 - August 2017</b>
 </p>
@@ -50,6 +62,13 @@ title: Shanshan Wu
 ---
 
 ## Publications
+<p>
+<b><a href="https://arxiv.org/abs/1810.11905">
+Sparse Logistic Regression Learns All Discrete Pairwise Graphical Models</a></b> <br>
+Shanshan Wu, Sujay Sanghavi, Alex Dimakis<br>
+preprint
+</p>
+
 <p>
 <b><a href="https://arxiv.org/abs/1806.10175">The Sparse Recovery Autoencoder</a></b> <br>
 <a href="https://github.com/wushanshan/L1AE">[Code]</a> <br>
@@ -153,6 +172,6 @@ Teaching Assistant, VP140 (Physics I), <a href="http://umji.sjtu.edu.cn/">UM-SJT
 </p>
 ---
 <p>
-Last update: June 27, 2018
+Last update: Oct 29, 2018
 
 </p>
