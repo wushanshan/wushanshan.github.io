@@ -13,7 +13,7 @@ title: Shanshan Wu
         </p>
        Here is my <a href="../files/CV_sswu_20181011_twopage.pdf">resume</a>. I can be reached at <a href="mailto:shanshan@utexas.edu">shanshan@utexas.edu</a> 
         </td>
-        <td width="25%">
+        <td width="20%">
         <img src="../images/github_pic.jpg">
         </td>
       </tr>
