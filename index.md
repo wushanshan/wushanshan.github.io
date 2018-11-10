@@ -65,7 +65,7 @@ title: Shanshan Wu
 <p>
 <b><a href="https://arxiv.org/abs/1810.11905">
 Sparse Logistic Regression Learns All Discrete Pairwise Graphical Models</a></b> <br>
-Shanshan Wu, Sujay Sanghavi, Alex Dimakis<br>
+<b>Shanshan Wu</b>, Sujay Sanghavi, Alex Dimakis<br>
 preprint<br>
 NIPS workshop on Relational Representation Learning, 2018.
 </p>
@@ -73,34 +73,34 @@ NIPS workshop on Relational Representation Learning, 2018.
 <p>
 <b><a href="https://arxiv.org/abs/1806.10175">The Sparse Recovery Autoencoder</a></b> <br>
 <a href="https://github.com/wushanshan/L1AE">[Code]</a>&nbsp;<a href="../files/SparseAEposter_oct24.pdf">[Poster]</a> <br>
-Shanshan Wu, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar<br>
+<b>Shanshan Wu</b>, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar<br>
 preprint
 </p>
 
 <p>
 <b><a href="https://arxiv.org/abs/1610.06656">Single Pass PCA of Matrix Products</a></b> <br>
 <a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a>&nbsp;<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a>&nbsp;<a href="../files/OnePassPCAPoster.pdf">[Poster]</a><br>
-Shanshan Wu, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
+<b>Shanshan Wu</b>, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
 NIPS 2016.
 </p>
 
 <p>
 <b><a href="http://erikml.com/leveraging-sparsity.pdf">Leveraging Sparsity for Efficient Submodular Data Summarization</a></b> <br>
 <a href="https://www.youtube.com/watch?v=9sKLx09bAAE">[Spotlight Video]</a><br>
-Erik Lindgren, Shanshan Wu, and Alex Dimakis<br>
+Erik Lindgren, <b>Shanshan Wu</b>, and Alex Dimakis<br>
 NIPS 2016.
 </p>
 
 <p>
 	<b><a href="../files/nips2015.pdf">Sparse and Greedy: Sparsifying Submodular Facility Location Problems</a></b><br>
 	<a href="https://github.com/ErikML/sfl-easylsh">[Code]</a><br>
-              Erik Lindgren, Shanshan Wu, and Alex Dimakis<br>
+              Erik Lindgren, <b>Shanshan Wu</b>, and Alex Dimakis<br>
               NIPS workshop OPT 2015. <br>
 </p>
 
 <p>
 	<b><a href="../files/TVT.pdf">Distributed Opportunistic Scheduling with QoS Constraints for Wireless Networks with Hybrid Links</a></b><br>
-              Wenguang Mao, Xudong Wang, and Shanshan Wu<br>
+              Wenguang Mao, Xudong Wang, and <b>Shanshan Wu</b><br>
               IEEE Transactions on Vehicular Technology, 2015.<br>
               An earlier version appears in Proceedings of the IEEE Globecom, 2013.<br>
 </p>
@@ -108,13 +108,13 @@ NIPS 2016.
 <p>
 	<b><a href="../files/MU-MIMO.pdf">Performance Study on a CSMA/CA-Based MAC Protocol for Multi-User MIMO Wireless LANs</a></b><br>
 	      <a href="https://github.com/wushanshan/MU-MIMO-WLAN">[Code]</a><br>
-              Shanshan Wu, Wenguang Mao, and Xudong Wang<br>
+              <b>Shanshan Wu</b>, Wenguang Mao, and Xudong Wang<br>
               IEEE Transactions on Wireless Communications, 2014.<br>
               An earlier version appears in Proceedings of the IEEE Globecom, 2013.<br>
 </p>
 <p>
 	<b><a href="../files/TW-Relay.pdf">Information-theoretic study on routing path selection in two-way relay networks</a></b><br>
-              Shanshan Wu, Wenguang Mao, and Xudong Wang<br>
+              <b>Shanshan Wu</b>, Wenguang Mao, and Xudong Wang<br>
               Proceedings of the IEEE Globecom, 2013. <br>
 </p>
 
