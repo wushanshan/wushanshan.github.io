@@ -71,7 +71,7 @@ NIPS workshop on Relational Representation Learning, 2018. <a href="../files/Gra
 </p>
 
 <p>
-<b><a href="https://arxiv.org/abs/1806.10175">The Sparse Recovery Autoencoder</a></b> <br>
+<b><a href="https://arxiv.org/abs/1806.10175">Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling</a></b> <br>
 <a href="https://github.com/wushanshan/L1AE">[Code]</a>&nbsp;<a href="../files/SparseAEposter_oct24.pdf">[Poster]</a> <br>
 <b>Shanshan Wu</b>, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar<br>
 preprint
@@ -173,6 +173,6 @@ Teaching Assistant, VP140 (Physics I), <a href="http://umji.sjtu.edu.cn/">UM-SJT
 </p>
 ---
 <p>
-Last update: Oct 29, 2018
+Last update: Feb 2, 2019
 
 </p>
