@@ -65,6 +65,7 @@ title: Shanshan Wu
 <p>
 <b><a href="https://arxiv.org/abs/1810.11905">
 Sparse Logistic Regression Learns All Discrete Pairwise Graphical Models</a></b> <br>
+<a href="https://github.com/wushanshan/GraphLearn">[Code]</a><br>
 <b>Shanshan Wu</b>, Sujay Sanghavi, Alex Dimakis<br>
 preprint<br>
 NIPS workshop on Relational Representation Learning, 2018. <a href="../files/GraphicalModel_workshop.pdf">[workshop version]</a>
