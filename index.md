@@ -120,6 +120,17 @@ NIPS 2016.
 </p>
 
 ---
+## Professional services
+<p>
+<b>Conference reviewer:</b><br> 
+	NIPS 2016/2017/2018 (<i>top 30% highest-rating reviewer for NeurIPS 2018</i>), ICML 2018/2019, IEEE ISIT 2019
+</p>
+<p>
+<b>Journal reviewer:</b><br> 
+	Journal on Machine Learning Research, IEEE Trans. on Mobile Computing, IEEE Trans. on Wireless Communications, IEEE Trans. on Vehicular Technology, Ad Hoc Networks
+</p>
+
+---
 
 ## Graduate Courses at UT-Austin
 <p>
