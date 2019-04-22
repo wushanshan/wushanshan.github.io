@@ -6,7 +6,7 @@ title: Shanshan Wu
     <tr>
      <td width="70%" valign="middle">
         <p>
-        I am a 5th year PhD student in the ECE Department at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. I am fortunate to be advised by <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> and <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. I got my BS degree in 2011 and MS degree in 2014 from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="http://umji.sjtu.edu.cn/faculty/xudong-wang/">Xudong Wang</a>. 
+        I am a 5th year PhD candidate in the ECE Department at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. I am fortunate to be advised by <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> and <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. I got my BS degree in 2011 and MS degree in 2014 from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="http://umji.sjtu.edu.cn/faculty/xudong-wang/">Xudong Wang</a>. 
        </p>
        <p>
        My PhD research focuses on large-scale machine learning, which can be splitted into two parts: the <b>algorithm/theory</b> part and the <b>practice/implementation</b> part. For the algorithm/theory part, I have worked on several different projects, including graphical models, dimensionality reduction, compressed sensing, gradient tree boosting, neural networks, kernel learning, collaborative ranking, and natural language processing. For the practice/implementation part, I have used different platforms/libraries, including <a href="https://spark.apache.org">Apache Spark</a>, XGBoost, scikit-learn, Tensorflow, PyTorch, and Gurobi. Code of some projects can be found under <a href="https://github.com/wushanshan">my GitHub</a>.
@@ -68,28 +68,28 @@ Sparse Logistic Regression Learns All Discrete Pairwise Graphical Models</a></b>
 <a href="https://github.com/wushanshan/GraphLearn">[Code]</a><br>
 <b>Shanshan Wu</b>, Sujay Sanghavi, Alex Dimakis<br>
 preprint<br>
-NIPS workshop on Relational Representation Learning, 2018. <a href="../files/GraphicalModel_workshop.pdf">[workshop version]</a>
+NeurIPS Workshop on Relational Representation Learning, 2018. <a href="../files/GraphicalModel_workshop.pdf">[workshop version]</a>
 </p>
 
 <p>
 <b><a href="https://arxiv.org/abs/1806.10175">Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling</a></b> <br>
 <a href="https://github.com/wushanshan/L1AE">[Code]</a>&nbsp;<a href="../files/SparseAEposter_oct24.pdf">[Poster]</a> <br>
 <b>Shanshan Wu</b>, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar<br>
-preprint
+To appear in International Conference on Machine Learning (ICML) 2019.
 </p>
 
 <p>
 <b><a href="https://arxiv.org/abs/1610.06656">Single Pass PCA of Matrix Products</a></b> <br>
 <a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a>&nbsp;<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a>&nbsp;<a href="../files/OnePassPCAPoster.pdf">[Poster]</a><br>
 <b>Shanshan Wu</b>, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
-NIPS 2016.
+Neural Information Processing Systems Conference (NIPS) 2016.
 </p>
 
 <p>
 <b><a href="http://erikml.com/leveraging-sparsity.pdf">Leveraging Sparsity for Efficient Submodular Data Summarization</a></b> <br>
 <a href="https://www.youtube.com/watch?v=9sKLx09bAAE">[Spotlight Video]</a><br>
 Erik Lindgren, <b>Shanshan Wu</b>, and Alex Dimakis<br>
-NIPS 2016.
+Neural Information Processing Systems Conference (NIPS) 2016.
 </p>
 
 <p>
@@ -185,6 +185,6 @@ Teaching Assistant, VP140 (Physics I), <a href="http://umji.sjtu.edu.cn/">UM-SJT
 </p>
 ---
 <p>
-Last update: Feb 2, 2019
+Last update: April 22, 2019
 
 </p>
