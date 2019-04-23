@@ -82,14 +82,14 @@ To appear in International Conference on Machine Learning (ICML) 2019.
 <b><a href="https://arxiv.org/abs/1610.06656">Single Pass PCA of Matrix Products</a></b> <br>
 <a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a>&nbsp;<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a>&nbsp;<a href="../files/OnePassPCAPoster.pdf">[Poster]</a><br>
 <b>Shanshan Wu</b>, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
-Neural Information Processing Systems Conference (NIPS) 2016.
+Conference on Neural Information Processing Systems (NIPS) 2016.
 </p>
 
 <p>
 <b><a href="http://erikml.com/leveraging-sparsity.pdf">Leveraging Sparsity for Efficient Submodular Data Summarization</a></b> <br>
 <a href="https://www.youtube.com/watch?v=9sKLx09bAAE">[Spotlight Video]</a><br>
 Erik Lindgren, <b>Shanshan Wu</b>, and Alex Dimakis<br>
-Neural Information Processing Systems Conference (NIPS) 2016.
+Conference on Neural Information Processing Systems (NIPS) 2016.
 </p>
 
 <p>
