@@ -123,11 +123,17 @@ Conference on Neural Information Processing Systems (NIPS) 2016.
 ## Professional services
 <p>
 <b>Conference reviewer:</b><br> 
-	NIPS 2016/2017/2018 (<i>top 30% highest-rating reviewer for NeurIPS 2018</i>), ICML 2018/2019, IEEE ISIT 2019
+	NIPS 2016/2017/2018 (<b>top 30%</b> highest-rating reviewer for NeurIPS 2018)<br>
+	ICML 2018/2019<br>
+	IEEE ISIT 2019<br>
 </p>
 <p>
 <b>Journal reviewer:</b><br> 
-	Journal on Machine Learning Research, IEEE Trans. on Mobile Computing, IEEE Trans. on Wireless Communications, IEEE Trans. on Vehicular Technology, Ad Hoc Networks
+	Journal on Machine Learning Research<br>
+	IEEE Trans. on Mobile Computing<br> 
+	IEEE Trans. on Wireless Communications<br> 
+	IEEE Trans. on Vehicular Technology<br> 
+	Ad Hoc Networks<br>
 </p>
 
 ---
