@@ -123,7 +123,7 @@ Conference on Neural Information Processing Systems (NIPS) 2016.
 ## Professional services
 <p>
 <b>Conference reviewer:</b><br> 
-	NIPS 2016/2017/2018 (<b>top 30%</b> highest-rating reviewer for NeurIPS 2018)<br>
+	NIPS 2016/2017/2018/2019 (<b>top 30%</b> highest-rating reviewer for NeurIPS 2018)<br>
 	ICML 2018/2019<br>
 	IEEE ISIT 2019<br>
 </p>
