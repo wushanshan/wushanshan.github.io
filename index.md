@@ -75,7 +75,7 @@ NeurIPS Workshop on Relational Representation Learning, 2018. <a href="../files/
 <b><a href="https://arxiv.org/abs/1806.10175">Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling</a></b> <br>
 <a href="https://github.com/wushanshan/L1AE">[Code]</a>&nbsp;<a href="../files/ICML_poster_sparseAE.pdf">[Poster]</a> <br>
 <b>Shanshan Wu</b>, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar<br>
-To appear in International Conference on Machine Learning (ICML) 2019.
+International Conference on Machine Learning (ICML) 2019.
 </p>
 
 <p>
