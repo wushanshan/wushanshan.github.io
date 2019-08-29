@@ -75,21 +75,21 @@ NeurIPS Workshop on Relational Representation Learning, 2018. <a href="../files/
 <b><a href="https://arxiv.org/abs/1806.10175">Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling</a></b> <br>
 <a href="https://github.com/wushanshan/L1AE">[Code]</a>&nbsp;<a href="../files/ICML_poster_sparseAE.pdf">[Poster]</a> <br>
 <b>Shanshan Wu</b>, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar<br>
-International Conference on Machine Learning (ICML) 2019.
+International Conference on Machine Learning (<b>ICML</b>) 2019.
 </p>
 
 <p>
 <b><a href="https://arxiv.org/abs/1610.06656">Single Pass PCA of Matrix Products</a></b> <br>
 <a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a>&nbsp;<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a>&nbsp;<a href="../files/OnePassPCAPoster.pdf">[Poster]</a><br>
 <b>Shanshan Wu</b>, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
-Conference on Neural Information Processing Systems (NIPS) 2016.
+Conference on Neural Information Processing Systems (<b>NIPS</b>) 2016.
 </p>
 
 <p>
 <b><a href="http://erikml.com/leveraging-sparsity.pdf">Leveraging Sparsity for Efficient Submodular Data Summarization</a></b> <br>
 <a href="https://www.youtube.com/watch?v=9sKLx09bAAE">[Spotlight Video]</a><br>
 Erik Lindgren, <b>Shanshan Wu</b>, and Alex Dimakis<br>
-Conference on Neural Information Processing Systems (NIPS) 2016.
+Conference on Neural Information Processing Systems (<b>NIPS</b>) 2016.
 </p>
 
 <p>
@@ -102,7 +102,7 @@ Conference on Neural Information Processing Systems (NIPS) 2016.
 <p>
 	<b><a href="../files/TVT.pdf">Distributed Opportunistic Scheduling with QoS Constraints for Wireless Networks with Hybrid Links</a></b><br>
               Wenguang Mao, Xudong Wang, and <b>Shanshan Wu</b><br>
-              IEEE Transactions on Vehicular Technology, 2015.<br>
+              IEEE Transactions on Vehicular Technology (<b>TVT</b>), 2015.<br>
               An earlier version appears in Proceedings of the IEEE Globecom, 2013.<br>
 </p>
 
@@ -110,7 +110,7 @@ Conference on Neural Information Processing Systems (NIPS) 2016.
 	<b><a href="../files/MU-MIMO.pdf">Performance Study on a CSMA/CA-Based MAC Protocol for Multi-User MIMO Wireless LANs</a></b><br>
 	      <a href="https://github.com/wushanshan/MU-MIMO-WLAN">[Code]</a><br>
               <b>Shanshan Wu</b>, Wenguang Mao, and Xudong Wang<br>
-              IEEE Transactions on Wireless Communications, 2014.<br>
+              IEEE Transactions on Wireless Communications (<b>TWC</b>), 2014.<br>
               An earlier version appears in Proceedings of the IEEE Globecom, 2013.<br>
 </p>
 <p>
