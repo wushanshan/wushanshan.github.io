@@ -74,7 +74,7 @@ Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2019
 Sparse Logistic Regression Learns All Discrete Pairwise Graphical Models</a></b> <br>
 <a href="https://github.com/wushanshan/GraphLearn">[Code]</a><br>
 <b>Shanshan Wu</b>, Sujay Sanghavi, Alex Dimakis<br>
-Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2019 <br>
+Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2019 (<b>Spotlight</b>)<br>
 Short version in NeurIPS Workshop on Relational Representation Learning, 2018. <a href="../files/GraphicalModel_workshop.pdf">[workshop version]</a>
 </p>
 
