@@ -11,7 +11,7 @@ title: Shanshan Wu
        <p>
        My PhD research focuses on large-scale machine learning, which can be splitted into two parts: the <b>algorithm/theory</b> part and the <b>practice/implementation</b> part. For the algorithm/theory part, I have worked on several different projects, including graphical models, dimensionality reduction, compressed sensing, gradient tree boosting, neural networks, kernel learning, collaborative ranking, and natural language processing. For the practice/implementation part, I have used different platforms/libraries, including Apache Spark, XGBoost, scikit-learn, Tensorflow, PyTorch, and Gurobi. Code of some projects can be found under <a href="https://github.com/wushanshan">my GitHub</a>.
         </p>
-       Here is my <a href="../files/CV_sswu_20181011_twopage.pdf">resume</a>. I can be reached at <a href="mailto:shanshan@utexas.edu">shanshan@utexas.edu</a> 
+       I can be reached at <a href="mailto:shanshan@utexas.edu">shanshan@utexas.edu</a> 
         </td>
         <td width="20%">
         <img src="../images/github_pic.jpg">
