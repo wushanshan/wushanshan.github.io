@@ -21,45 +21,6 @@ title: Shanshan Wu
 
 ---
 
-## Internships
-<p>
-<b>June 2018 - August 2018</b>
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern | Google Research, New York City
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Boosting Random Features	
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;With Petros Mol and Natalia Ponomareva
-</p>
-<p>
-<b>June 2017 - August 2017</b>
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern | Google Research, New York City
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Representation Learning for High-Dimensioanl Sparse Data	
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;With Dmitry Storcheus, Felix X. Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar
-</p>
-<p>
-<b>Jan 2017 - April 2017</b>
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Applied Scientist Intern | Amazon AI, East Palo Alto
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Joint Learning for Named Entity Recognition and Neural Machine Translation
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;With Hyokun Yun and Anima Anandkumar
-</p>
-
----
 
 ## Publications
 <p>
@@ -125,6 +86,46 @@ Advances in Neural Information Processing Systems (<b>NIPS</b>) 2016.
 	<b><a href="../files/TW-Relay.pdf">Information-theoretic study on routing path selection in two-way relay networks</a></b><br>
               <b>Shanshan Wu</b>, Wenguang Mao, and Xudong Wang<br>
               Proceedings of the IEEE Globecom, 2013. <br>
+</p>
+
+---
+
+## Internships
+<p>
+<b>June 2018 - August 2018</b>
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern | Google Research, New York City
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;Boosting Random Features	
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;With Petros Mol and Natalia Ponomareva
+</p>
+<p>
+<b>June 2017 - August 2017</b>
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern | Google Research, New York City
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;Representation Learning for High-Dimensioanl Sparse Data	
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;With Dmitry Storcheus, Felix X. Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar
+</p>
+<p>
+<b>Jan 2017 - April 2017</b>
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;Applied Scientist Intern | Amazon AI, East Palo Alto
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;Joint Learning for Named Entity Recognition and Neural Machine Translation
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;With Hyokun Yun and Anima Anandkumar
 </p>
 
 ---
