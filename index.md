@@ -13,7 +13,7 @@ title: Shanshan Wu
         </p>
        I can be reached at <a href="mailto:shanshan@utexas.edu">shanshan@utexas.edu</a> 
         </td>
-        <td width="20%">
+        <td width="25%">
         <img src="../images/github_pic.jpg">
         </td>
       </tr>
