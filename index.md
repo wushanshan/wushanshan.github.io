@@ -4,7 +4,7 @@ title: Shanshan Wu
 ---
   <table width="700" border="0" align="center" cellspacing="0" cellpadding="0">
     <tr>
-     <td width="80%" valign="middle">
+     <td width="72%" valign="middle">
         <p>
         As of Sept 2019, I got my PhD from the ECE Department at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. My next stop is Google AI. I am fortunate to be advised by <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> and <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. I got my BS degree in 2011 and MS degree in 2014 from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="http://umji.sjtu.edu.cn/faculty/xudong-wang/">Xudong Wang</a>. 
        </p>
@@ -13,7 +13,7 @@ title: Shanshan Wu
         </p>
        I can be reached at <a href="mailto:shanshan@utexas.edu">shanshan@utexas.edu</a> 
         </td>
-        <td width="20%">
+        <td width="25%">
         <img src="../images/github_pic.jpg">
         </td>
       </tr>
