@@ -51,21 +51,21 @@ International Conference on Machine Learning (<b>ICML</b>) 2019.
 <b><a href="https://arxiv.org/abs/1610.06656">Single Pass PCA of Matrix Products</a></b> <br>
 <a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a>&nbsp;<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a>&nbsp;<a href="../files/OnePassPCAPoster.pdf">[Poster]</a><br>
 <b>Shanshan Wu</b>, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
-Advances in Neural Information Processing Systems (<b>NIPS</b>) 2016.
+Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2016.
 </p>
 
 <p>
 <b><a href="http://erikml.com/leveraging-sparsity.pdf">Leveraging Sparsity for Efficient Submodular Data Summarization</a></b> <br>
 <a href="https://www.youtube.com/watch?v=9sKLx09bAAE">[Spotlight Video]</a><br>
 Erik Lindgren, <b>Shanshan Wu</b>, and Alex Dimakis<br>
-Advances in Neural Information Processing Systems (<b>NIPS</b>) 2016.
+Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2016.
 </p>
 
 <p>
 	<b><a href="../files/nips2015.pdf">Sparse and Greedy: Sparsifying Submodular Facility Location Problems</a></b><br>
 	<a href="https://github.com/ErikML/sfl-easylsh">[Code]</a><br>
               Erik Lindgren, <b>Shanshan Wu</b>, and Alex Dimakis<br>
-              NIPS workshop OPT 2015. <br>
+              NeurIPS workshop OPT 2015. <br>
 </p>
 
 <p>
@@ -132,7 +132,7 @@ Advances in Neural Information Processing Systems (<b>NIPS</b>) 2016.
 ## Professional services
 <p>
 <b>Conference reviewer:</b><br> 
-	NIPS 2016/2017/2018/2019 (<b>top 30%</b> highest-rating reviewer for NeurIPS 2018)<br>
+	NeurIPS 2016/2017/2018/2019 (<b>top 30%</b> highest-rating reviewer for NeurIPS 2018)<br>
 	ICML 2018/2019<br>
 	IEEE ISIT 2019<br>
 </p>
