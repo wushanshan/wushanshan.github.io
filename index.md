@@ -26,7 +26,7 @@ title: Shanshan Wu
 <p>
 <b><a href="https://arxiv.org/abs/1911.07956">
 Implicit Regularization and Convergence for Weight Normalization</a></b><br>
-Xiaoxia Wu*, Edgar Dobriban*, Tongzheng Ren*, <b>Shanshan Wu*</b>, Yuanzhi Li, Suriya Gunasekar, Rachel Ward and Qiang Liu<br>
+Xiaoxia Wu*, Edgar Dobriban*, Tongzheng Ren*, <b>Shanshan Wu*</b>, Yuanzhi Li, Suriya Gunasekar, Rachel Ward, Qiang Liu<br>
 Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2020<br>
 <i>*Equal contribution</i>
 </p>
