@@ -41,7 +41,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2019 (**Spotligh
 [Short version](../files/GraphicalModel_workshop.pdf) in [NeurIPS Workshop on Relational Representation Learning, 2018](https://r2learning.github.io/) 
 
 [**Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling**](https://arxiv.org/abs/1806.10175)  
-[\[Code\]](https://github.com/wushanshan/L1AE)  [\[Poster\]](https://github.com/wushanshan/L1AE/tree/master/poster)  [Slides\]](https://github.com/wushanshan/L1AE/tree/master/slides)  
+[\[Code\]](https://github.com/wushanshan/L1AE)  [\[Poster\]](https://github.com/wushanshan/L1AE/tree/master/poster)  [\[Slides\]](https://github.com/wushanshan/L1AE/tree/master/slides)  
 **Shanshan Wu**, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar  
 International Conference on Machine Learning (**ICML**) 2019
 
