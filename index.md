@@ -39,166 +39,112 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2019
 Advances in Neural Information Processing Systems (**NeurIPS**) 2019 (**Spotlight**)  
 [Short version](../files/GraphicalModel_workshop.pdf) in [NeurIPS Workshop on Relational Representation Learning, 2018](https://r2learning.github.io/) 
 
-<p>
-<b><a href="https://arxiv.org/abs/1806.10175">Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling</a></b> <br>
-<a href="https://github.com/wushanshan/L1AE">[Code]</a>&nbsp;<a href="../files/ICML_poster_sparseAE.pdf">[Poster]</a> <br>
-<b>Shanshan Wu</b>, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar<br>
-International Conference on Machine Learning (<b>ICML</b>) 2019.
-</p>
+[**Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling**](https://arxiv.org/abs/1806.10175)  
+[\[Code\]](https://github.com/wushanshan/L1AE)  [\[Poster\]](../files/ICML_poster_sparseAE.pdf)  
+**Shanshan Wu**, Alex Dimakis, Sujay Sanghavi, Felix X. Yu, Dan Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, and Sanjiv Kumar  
+International Conference on Machine Learning (**ICML**) 2019
 
-<p>
-<b><a href="https://arxiv.org/abs/1610.06656">Single Pass PCA of Matrix Products</a></b> <br>
-<a href="https://github.com/wushanshan/MatrixProductPCA">[Code]</a>&nbsp;<a href="https://youtu.be/Ir4-eNz6tOw">[Spotlight Video]</a>&nbsp;<a href="../files/OnePassPCAPoster.pdf">[Poster]</a><br>
-<b>Shanshan Wu</b>, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis<br>
-Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2016.
-</p>
+[**Single Pass PCA of Matrix Products**](https://arxiv.org/abs/1610.06656)  
+[\[Code\]](https://github.com/wushanshan/MatrixProductPCA)  [\[Poster\]](../files/OnePassPCAPoster.pdf)  [\[Spotlight Videl\]](https://youtu.be/Ir4-eNz6tOw)  
+**Shanshan Wu**, Srinadh Bhojanapalli, Sujay Sanghavi, and Alex Dimakis  
+Advances in Neural Information Processing Systems (**NeurIPS**) 2016
 
-<p>
-<b><a href="http://erikml.com/leveraging-sparsity.pdf">Leveraging Sparsity for Efficient Submodular Data Summarization</a></b> <br>
-<a href="https://www.youtube.com/watch?v=9sKLx09bAAE">[Spotlight Video]</a><br>
-Erik Lindgren, <b>Shanshan Wu</b>, and Alex Dimakis<br>
-Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2016.
-</p>
+[**Leveraging Sparsity for Efficient Submodular Data Summarization**](http://erikml.com/leveraging-sparsity.pdf)  
+[\[Spotlight Video\]](https://www.youtube.com/watch?v=9sKLx09bAAE)  
+Erik Lindgren, **Shanshan Wu**, and Alex Dimakis  
+Advances in Neural Information Processing Systems (**NeurIPS**) 2016
+[Short version](https://github.com/ErikML/sfl-easylsh) in NeurIPS workshop OPT 2015
 
-<p>
-	<b><a href="../files/nips2015.pdf">Sparse and Greedy: Sparsifying Submodular Facility Location Problems</a></b><br>
-	<a href="https://github.com/ErikML/sfl-easylsh">[Code]</a><br>
-              Erik Lindgren, <b>Shanshan Wu</b>, and Alex Dimakis<br>
-              NeurIPS workshop OPT 2015. <br>
-</p>
+[**Distributed Opportunistic Scheduling with QoS Constraints for Wireless Networks with Hybrid Links**](../files/TVT.pdf)  
+Wenguang Mao, Xudong Wang, and **Shanshan Wu**  
+IEEE Transactions on Vehicular Technology (**TVT**), 2015  
+An earlier version appears in Proceedings of the IEEE Globecom, 2013
 
-<p>
-	<b><a href="../files/TVT.pdf">Distributed Opportunistic Scheduling with QoS Constraints for Wireless Networks with Hybrid Links</a></b><br>
-              Wenguang Mao, Xudong Wang, and <b>Shanshan Wu</b><br>
-              IEEE Transactions on Vehicular Technology (<b>TVT</b>), 2015.<br>
-              An earlier version appears in Proceedings of the IEEE Globecom, 2013.<br>
-</p>
+[**Performance Study on a CSMA/CA-Based MAC Protocol for Multi-User MIMO Wireless LANs**](../files/MU-MIMO.pdf)  
+[\[Code\]](https://github.com/wushanshan/MU-MIMO-WLAN)  
+**Shanshan Wu**, Wenguang Mao, and Xudong Wang  
+IEEE Transactions on Wireless Communications (**TWC**), 2014  
+An earlier version appears in Proceedings of the IEEE Globecom, 2013
 
-<p>
-	<b><a href="../files/MU-MIMO.pdf">Performance Study on a CSMA/CA-Based MAC Protocol for Multi-User MIMO Wireless LANs</a></b><br>
-	      <a href="https://github.com/wushanshan/MU-MIMO-WLAN">[Code]</a><br>
-              <b>Shanshan Wu</b>, Wenguang Mao, and Xudong Wang<br>
-              IEEE Transactions on Wireless Communications (<b>TWC</b>), 2014.<br>
-              An earlier version appears in Proceedings of the IEEE Globecom, 2013.<br>
-</p>
-<p>
-	<b><a href="../files/TW-Relay.pdf">Information-theoretic study on routing path selection in two-way relay networks</a></b><br>
-              <b>Shanshan Wu</b>, Wenguang Mao, and Xudong Wang<br>
-              Proceedings of the IEEE Globecom, 2013. <br>
-</p>
+[**Information-theoretic study on routing path selection in two-way relay networks**](../files/TW-Relay.pdf)  
+**Shanshan Wu**, Wenguang Mao, and Xudong Wang  
+Proceedings of the IEEE Globecom, 2013
 
 ---
 
 ## Internships
-<p>
-<b>June 2018 - August 2018</b>
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern | Google Research, New York City
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Boosting Random Features	
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;With Petros Mol and Natalia Ponomareva
-</p>
-<p>
-<b>June 2017 - August 2017</b>
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern | Google Research, New York City
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Representation Learning for High-Dimensioanl Sparse Data	
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;With Dmitry Storcheus, Felix X. Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar
-</p>
-<p>
-<b>Jan 2017 - April 2017</b>
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Applied Scientist Intern | Amazon AI, East Palo Alto
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Joint Learning for Named Entity Recognition and Neural Machine Translation
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;With Hyokun Yun and Anima Anandkumar
-</p>
+
+**June 2018 - August 2018**
+Software Engineer Intern | Google Research, New York City  
+<!--Boosting Random Features	
+With Petros Mol and Natalia Ponomareva-->  
+
+**June 2017 - August 2017**
+Software Engineer Intern | Google Research, New York City  
+<!--Representation Learning for High-Dimensioanl Sparse Data  
+With Dmitry Storcheus, Felix X. Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar-->
+
+**Jan 2017 - April 2017**
+Applied Scientist Intern | Amazon AI, East Palo Alto  
+<!--Joint Learning for Named Entity Recognition and Neural Machine Translation
+With Hyokun Yun and Anima Anandkumar-->
 
 ---
 ## Professional services
-<p>
-<b>Conference reviewer:</b><br> 
-	NeurIPS 2016/2017/2018/2019 (<b>top 30%</b> highest-rating reviewer for NeurIPS 2018)<br>
-	ICML 2018/2019/2020<br>
-	IEEE ISIT 2019<br>
-</p>
-<p>
-<b>Journal reviewer:</b><br> 
-	Journal on Machine Learning Research<br>
-	IEEE Trans. on Mobile Computing<br> 
-	IEEE Trans. on Wireless Communications<br> 
-	IEEE Trans. on Vehicular Technology<br> 
-	Ad Hoc Networks<br>
-</p>
+**Conference reviewer:**
+- NeurIPS 2016/2017/2018/2019 (**top 30%** highest-rating reviewer for NeurIPS 2018)
+- ICML 2018/2019/2020
+- IEEE ISIT 2019
+
+**Journal reviewer:**
+- Journal on Machine Learning Research
+- IEEE Trans. on Mobile Computing 
+- IEEE Trans. on Wireless Communications
+- IEEE Trans. on Vehicular Technology
+- Ad Hoc Networks
 
 ---
 
 ## Graduate Courses at UT-Austin
-<p>
-<b>2016 Fall</b><br>
-CS395T <a href="http://www.cs.utexas.edu/~ecprice/courses/sublinear/">Sublinear Algorithms</a> (Prof. Eric Price)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <b><a href="../files/RescaledJL_project.pdf">Rescaled JL Embedding</a></b> 
-</p>
-<p>
-<b>2016 Spring</b><br>
-EE381K-6 <a href="http://users.ece.utexas.edu/~hvikalo/ee381k6.html">Estimation Theory</a> (Prof. Haris Vikalo)<br>       
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <b><a href="../files/EstTheory_project.pdf">A Survey of Fast Kernel Sketching Algorithms</a></b>   
-</p>
-<p>
-<b>2015 Fall</b><br>
-EE381V Advanced Probability in Learning, Inference, and Networks (Prof. Sanjay Shakkottai)<br>     
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <b><a href="../files/AdvProb_project.pdf">Low-Rank Approximation of Matrix Product in One Pass</a></b><br>      
-CS388G <a href="http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html">Algorithms: Techniques/Theory</a> (Prof. Vijaya Ramachandran)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <b><a href="../files/Algo_project.pdf">PTAS for the Euclidean Traveling Salesman Problem</a></b>
-</p>
-<p>
-<b>2015 Summer (Online courses provided by edX)</b><br>
-CS100.1x <a href="https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x">Introduction to Big Data with Apache Spark</a> (Prof. Anthony D. Joseph) &nbsp;&nbsp;&nbsp;&nbsp;<a href="../files/Certificate1001x.pdf"><i>Certificate</i></a><br>
-CS190.1x <a href="https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x">Scalable Machine Learning</a> (Prof. Ameet Talwalkar) &nbsp;&nbsp;&nbsp;&nbsp;<a href="../files/Certificate1901x.pdf"><i>Certificate</i></a>
-</p>
-<p>
-<b>2015 Spring</b><br>
-EE381V Advanced Algorithms (Prof. Evdokia Nikolova)<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <b><a href="../files/AdvAlgo_project.pdf">Signal Recovery from Permuted Observations</a></b><br>  
+
+**2016 Fall**
+CS395T [Sublinear Algorithms](http://www.cs.utexas.edu/~ecprice/courses/sublinear/) (Prof. Eric Price)  
+*Course project*: [Rescaled JL Embedding](../files/RescaledJL_project.pdf)
+
+**2016 Spring**
+EE381K-6 [Estimation Theory](http://users.ece.utexas.edu/~hvikalo/ee381k6.html) (Prof. Haris Vikalo)        
+*Course project*: [A Survey of Fast Kernel Sketching Algorithms](../files/EstTheory_project.pdf)
+
+**2015 Fall**
+EE381V Advanced Probability in Learning, Inference, and Networks (Prof. Sanjay Shakkottai)    
+*Course project*: [Low-Rank Approximation of Matrix Product in One Pass](../files/AdvProb_project.pdf)      
+CS388G [Algorithms: Techniques/Theory](http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html) (Prof. Vijaya Ramachandran)  
+*Course project*: [PTAS for the Euclidean Traveling Salesman Problem](../files/Algo_project.pdf)  
+
+**2015 Summer (Online courses provided by [edX](https://www.edx.org/))**
+CS100.1x [Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) (Prof. Anthony D. Joseph) [*Certificate*](../files/Certificate1001x.pdf)  
+CS190.1x [Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) (Prof. Ameet Talwalkar) [*Certificate*](../files/Certificate1901x.pdf)
+
+**2015 Spring**
+EE381V Advanced Algorithms (Prof. Evdokia Nikolova)  
+*Course project*: [Signal Recovery from Permuted Observations](../files/AdvAlgo_project.pdf)  
 EE381K Information Theory (Prof. Alex Dimakis) 
-</p>
-<p>
-<b>2014 Fall</b><br> 
-EE380L <a href="http://hercules.ece.utexas.edu/courses/ee380l-f14/">Data Mining</a> (Prof. Joydeep Ghosh)<br>  
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Course project</i>: <b><a href="../files/DataMining_project.pdf">Ranking by Alternating SVM and Factorization Machine</a></b><br> 
-EE381V Large-Scale Optimization (Prof. Sujay Sanghavi)<br> 
-EE381J Probability and Stochastic Processes (Prof. Sanjay Shakkottai)
-</p>
+
+**2014 Fall** 
+EE380L [Data Mining](http://hercules.ece.utexas.edu/courses/ee380l-f14/) (Prof. Joydeep Ghosh)  
+*Course project*: [Ranking by Alternating SVM and Factorization Machine](../files/DataMining_project.pdf)  
+EE381V Large-Scale Optimization (Prof. Sujay Sanghavi)   
+EE381J Probability and Stochastic Processes (Prof. Sanjay Shakkottai)  
+
 ---
 
 ## Teaching Experiences
-<p>
-Teaching Assistant, EE381V (Machine Learning for Large Scale Data), UT-Austin, Spring 2016.  
-</p>
-<p>
-Teaching Assistant, EE313 (Linear Systems and Signals), UT-Austin, Fall 2014. 
-</p>
-<p>
-Teaching Assistant, VE489 (Computer Networks), <a href="http://umji.sjtu.edu.cn/">UM-SJTU Joint Institute</a>, Summer 2013.
-</p>
-<p>
-Teaching Assistant, VP140 (Physics I), <a href="http://umji.sjtu.edu.cn/">UM-SJTU Joint Institute</a>, Summer 2009. 
-</p>
----
-<p>
-Last update: Sept 27, 2020
 
-</p>
+- Teaching Assistant, EE381V (Machine Learning for Large Scale Data), UT-Austin, Spring 2016.  
+- Teaching Assistant, EE313 (Linear Systems and Signals), UT-Austin, Fall 2014.  
+- Teaching Assistant, VE489 (Computer Networks), [UM-SJTU Joint Institute](http://umji.sjtu.edu.cn/), Summer 2013.  
+- Teaching Assistant, VP140 (Physics I), [UM-SJTU Joint Institute](http://umji.sjtu.edu.cn/), Summer 2009. 
+
+---
+
+Last update: April 10, 2021
