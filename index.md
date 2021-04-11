@@ -107,15 +107,15 @@ With Hyokun Yun and Anima Anandkumar-->
 
 ## Graduate Courses at UT-Austin
 
-**2016 Fall**
+**2016 Fall**  
 CS395T [Sublinear Algorithms](http://www.cs.utexas.edu/~ecprice/courses/sublinear/) (Prof. Eric Price)  
 *Course project*: [Rescaled JL Embedding](../files/RescaledJL_project.pdf)
 
-**2016 Spring**
+**2016 Spring**  
 EE381K-6 [Estimation Theory](http://users.ece.utexas.edu/~hvikalo/ee381k6.html) (Prof. Haris Vikalo)        
 *Course project*: [A Survey of Fast Kernel Sketching Algorithms](../files/EstTheory_project.pdf)
 
-**2015 Fall**
+**2015 Fall**  
 EE381V Advanced Probability in Learning, Inference, and Networks (Prof. Sanjay Shakkottai)    
 *Course project*: [Low-Rank Approximation of Matrix Product in One Pass](../files/AdvProb_project.pdf)      
 CS388G [Algorithms: Techniques/Theory](http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html) (Prof. Vijaya Ramachandran)  
@@ -125,12 +125,12 @@ CS388G [Algorithms: Techniques/Theory](http://www.cs.utexas.edu/~vlr/courses/f15
 CS100.1x [Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) (Prof. Anthony D. Joseph) [*Certificate*](../files/Certificate1001x.pdf)  
 CS190.1x [Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) (Prof. Ameet Talwalkar) [*Certificate*](../files/Certificate1901x.pdf)
 
-**2015 Spring**
+**2015 Spring**  
 EE381V Advanced Algorithms (Prof. Evdokia Nikolova)  
 *Course project*: [Signal Recovery from Permuted Observations](../files/AdvAlgo_project.pdf)  
 EE381K Information Theory (Prof. Alex Dimakis) 
 
-**2014 Fall** 
+**2014 Fall**   
 EE380L [Data Mining](http://hercules.ece.utexas.edu/courses/ee380l-f14/) (Prof. Joydeep Ghosh)  
 *Course project*: [Ranking by Alternating SVM and Factorization Machine](../files/DataMining_project.pdf)  
 EE381V Large-Scale Optimization (Prof. Sujay Sanghavi)   
