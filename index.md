@@ -121,7 +121,7 @@ EE381V Advanced Probability in Learning, Inference, and Networks (Prof. Sanjay S
 CS388G [Algorithms: Techniques/Theory](http://www.cs.utexas.edu/~vlr/courses/f15.388g/index.html) (Prof. Vijaya Ramachandran)  
 *Course project*: [PTAS for the Euclidean Traveling Salesman Problem](../files/Algo_project.pdf)  
 
-**2015 Summer (Online courses provided by [edX](https://www.edx.org/))**
+**2015 Summer (Online courses provided by [edX](https://www.edx.org/))**  
 CS100.1x [Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) (Prof. Anthony D. Joseph) [*Certificate*](../files/Certificate1001x.pdf)  
 CS190.1x [Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) (Prof. Ameet Talwalkar) [*Certificate*](../files/Certificate1901x.pdf)
 
