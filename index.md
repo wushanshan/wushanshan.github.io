@@ -75,17 +75,17 @@ Proceedings of the IEEE Globecom, 2013
 
 ## Internships
 
-**June 2018 - August 2018**
+**June 2018 - August 2018**  
 Software Engineer Intern | Google Research, New York City  
 <!--Boosting Random Features	
 With Petros Mol and Natalia Ponomareva-->  
 
-**June 2017 - August 2017**
+**June 2017 - August 2017**  
 Software Engineer Intern | Google Research, New York City  
 <!--Representation Learning for High-Dimensioanl Sparse Data  
 With Dmitry Storcheus, Felix X. Yu, Dan Holtmann-Rice, Afshin Rostamizadeh, and Sanjiv Kumar-->
 
-**Jan 2017 - April 2017**
+**Jan 2017 - April 2017**  
 Applied Scientist Intern | Amazon AI, East Palo Alto  
 <!--Joint Learning for Named Entity Recognition and Neural Machine Translation
 With Hyokun Yun and Anima Anandkumar-->
