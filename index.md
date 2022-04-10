@@ -22,6 +22,12 @@ title: Shanshan Wu
 ---
 
 ## Publications
+[**A Field Guide to Federated Optimization**](https://arxiv.org/abs/2107.06917)  
+A joint effort of 50+ authors: Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan, et al., 2021
+
+[**Federated Reconstruction: Partially Local Federated Learning**](https://proceedings.neurips.cc/paper/2021/hash/5d44a2b0d85aa1a4dd3f218be6422c66-Abstract.html)  
+Karan Singhal, Hakim Sidahmed, Zachary Garrett, **Shanshan Wu**, Keith Rush, Sushant Prakash  
+Advances in Neural Information Processing Systems (**NeurIPS**) 2021
 
 [**Implicit Regularization and Convergence for Weight Normalization**](https://arxiv.org/abs/1911.07956)  
 [\[Slides\]](https://drive.google.com/file/d/1uxJ5pZutcV-pkT0_tfwD98DCkv7xULtr/view)  
@@ -148,4 +154,4 @@ EE381J Probability and Stochastic Processes (Prof. Sanjay Shakkottai)
 
 ---
 
-Last update: April 10, 2021
+Last update: April 9, 2022
