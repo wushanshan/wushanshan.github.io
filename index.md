@@ -21,6 +21,10 @@ title: Shanshan Wu
 
 ---
 
+Last update: April 9, 2022
+
+---
+
 ## Publications
 [**A Field Guide to Federated Optimization**](https://arxiv.org/abs/2107.06917)  
 Joint effort of 50+ authors: Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan, et al., 2021
@@ -153,6 +157,3 @@ EE381J Probability and Stochastic Processes (Prof. Sanjay Shakkottai)
 - Teaching Assistant, VE489 (Computer Networks), [UM-SJTU Joint Institute](http://umji.sjtu.edu.cn/), Summer 2013.  
 - Teaching Assistant, VP140 (Physics I), [UM-SJTU Joint Institute](http://umji.sjtu.edu.cn/), Summer 2009. 
 
----
-
-Last update: April 9, 2022
