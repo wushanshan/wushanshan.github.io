@@ -21,11 +21,17 @@ title: Shanshan Wu
 
 ---
 
-Last update: April 9, 2022
+Last update: June 21, 2022
 
 ---
 
 ## Publications
+[**Motley: Benchmarking Heterogeneity and Personalization in Federated Learning**](https://arxiv.org/abs/2206.09262)  
+[\[Code\]](https://github.com/google-research/federated/tree/master/personalization_benchmark)  
+**Shanshan Wu**, Tian Li, Zachary Charles, Yu Xiao, Ziyu Liu, Zheng Xu, Virginia Smith  
+Preprint, 2022
+
+
 [**A Field Guide to Federated Optimization**](https://arxiv.org/abs/2107.06917)  
 Joint effort of 50+ authors: Jianyu Wang, ..., **Shanshan Wu**, ..., 2021
 
