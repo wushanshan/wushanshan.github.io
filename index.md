@@ -110,7 +110,7 @@ With Hyokun Yun and Anima Anandkumar-->
 ---
 ## Professional services
 **Conference reviewer:**
-- NeurIPS 2016/2017/2018/2019/2021 (**top 30%** highest-rating reviewer for NeurIPS 2018)
+- NeurIPS 2016/2017/2018/2019/2021/2022 (**top 30%** highest-rating reviewer for NeurIPS 2018)
 - ICML 2018/2019/2020
 - ICLR 2022
 - IEEE ISIT 2019
