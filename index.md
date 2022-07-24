@@ -33,6 +33,7 @@ Preprint, 2022
 
 
 [**A Field Guide to Federated Optimization**](https://arxiv.org/abs/2107.06917)  
+[\[Code\]](https://github.com/google-research/federated/tree/master/fedopt_guide)    
 Joint effort of 50+ authors: Jianyu Wang, ..., **Shanshan Wu**, ..., 2021
 
 [**Federated Reconstruction: Partially Local Federated Learning**](https://proceedings.neurips.cc/paper/2021/hash/5d44a2b0d85aa1a4dd3f218be6422c66-Abstract.html)  
