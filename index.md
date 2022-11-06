@@ -71,7 +71,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2016
 [\[Spotlight Video\]](https://www.youtube.com/watch?v=9sKLx09bAAE)  
 Erik Lindgren, **Shanshan Wu**, and Alex Dimakis  
 Advances in Neural Information Processing Systems (**NeurIPS**) 2016  
-[Short version](https://github.com/ErikML/sfl-easylsh) in NeurIPS workshop OPT 2015
+[Short version](https://github.com/ErikML/sfl-easylsh) in [NeurIPS workshop OPT 2015](https://opt-ml.org/oldopt/opt15/cfp.html)
 
 [**Distributed Opportunistic Scheduling with QoS Constraints for Wireless Networks with Hybrid Links**](../files/TVT.pdf)  
 Wenguang Mao, Xudong Wang, and **Shanshan Wu**  
