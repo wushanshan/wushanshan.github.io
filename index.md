@@ -25,8 +25,8 @@ Last update: Oct 29, 2023
 ---
 
 ## Publications
-[**Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**](https://arxiv.org/abs/2310.04627)
-Liam Collins, **Shanshan Wu**, Sewoong Oh, Khe Chai Sim
+[**Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**](https://arxiv.org/abs/2310.04627)  
+Liam Collins, **Shanshan Wu**, Sewoong Oh, Khe Chai Sim  
 [Short version](https://openreview.net/forum?id=5JsO2DClwk) in [NeurIPS Workshop on Federated Learning, 2023](https://federated-learning.org/fl@fm-neurips-2023/)
 
 [**Motley: Benchmarking Heterogeneity and Personalization in Federated Learning**](https://arxiv.org/abs/2206.09262)  
