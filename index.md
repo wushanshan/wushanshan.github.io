@@ -20,11 +20,15 @@ title: Shanshan Wu
 
 ---
 
-Last update: Nov 4, 2022
+Last update: Oct 29, 2023
 
 ---
 
 ## Publications
+[**Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**](https://arxiv.org/abs/2310.04627)
+Liam Collins, **Shanshan Wu**, Sewoong Oh, Khe Chai Sim
+[Short version](https://openreview.net/forum?id=5JsO2DClwk) in [NeurIPS Workshop on Federated Learning, 2023](https://federated-learning.org/fl@fm-neurips-2023/)
+
 [**Motley: Benchmarking Heterogeneity and Personalization in Federated Learning**](https://arxiv.org/abs/2206.09262)  
 [\[Code\]](https://github.com/google-research/federated/tree/master/personalization_benchmark)  
 **Shanshan Wu**, Tian Li, Zachary Charles, Yu Xiao, Ziyu Liu, Zheng Xu, Virginia Smith  
@@ -111,7 +115,7 @@ With Hyokun Yun and Anima Anandkumar-->
 ## Professional services
 **Conference reviewer:**
 - NeurIPS 2016/2017/2018/2019/2021/2022 (**top 30%** highest-rating reviewer for NeurIPS 2018)
-- ICML 2018/2019/2020
+- ICML 2018/2019/2020/2023
 - ICLR 2022
 - IEEE ISIT 2019
 
