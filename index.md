@@ -26,8 +26,8 @@ Last update: April 9, 2024
 
 ## Publications
 [**Prompt Public Large Language Models to Synthesize Data for Private On-device Applications**](https://arxiv.org/abs/2404.04360)
-**Shanshan Wu\***, Zheng Xu\*, Yanxiang Zhang\*, Yuanbo Zhang, Daniel Ramage
-*Equal contribution
+**Shanshan Wu\***, Zheng Xu\*, Yanxiang Zhang\*, Yuanbo Zhang, Daniel Ramage 
+*Equal contribution 
 *Preprint*
 
 [**Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**](https://arxiv.org/abs/2310.04627)  
