@@ -20,11 +20,16 @@ title: Shanshan Wu
 
 ---
 
-Last update: Dec 23, 2023
+Last update: April 9, 2024
 
 ---
 
 ## Publications
+[**Prompt Public Large Language Models to Synthesize Data for Private On-device Applications**](https://arxiv.org/abs/2404.04360)
+**Shanshan Wu\***, Zheng Xu\*, Yanxiang Zhang\*, Yuanbo Zhang, Daniel Ramage
+*Equal contribution
+*Preprint*
+
 [**Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**](https://arxiv.org/abs/2310.04627)  
 Liam Collins, **Shanshan Wu**, Sewoong Oh, Khe Chai Sim  
 [Short version](https://openreview.net/forum?id=5JsO2DClwk) in [NeurIPS Workshop on Federated Learning, 2023](https://federated-learning.org/fl@fm-neurips-2023/) (**Best Paper**)
@@ -116,11 +121,12 @@ With Hyokun Yun and Anima Anandkumar-->
 **Conference reviewer:**
 - NeurIPS 2016/2017/2018/2019/2021/2022 (**top 30%** highest-rating reviewer for NeurIPS 2018)
 - ICML 2018/2019/2020/2023
-- ICLR 2022
+- ICLR 2022/2024
 - IEEE ISIT 2019
 
 **Journal reviewer:**
-- Journal on Machine Learning Research
+- Transactions on Machine Learning Research (TMLR) 
+- Journal on Machine Learning Research (JMLR)
 - IEEE Trans. on Mobile Computing 
 - IEEE Trans. on Wireless Communications
 - IEEE Trans. on Vehicular Technology
