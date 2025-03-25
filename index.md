@@ -9,7 +9,7 @@ title: Shanshan Wu
         As of Sept 2019, I got my PhD from the ECE Department at the <a href="http://www.utexas.edu">University of Texas at Austin</a>. I am fortunate to be advised by <a href="http://users.ece.utexas.edu/~sanghavi/">Sujay Sanghavi</a> and <a href="http://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>. My next stop is Google Research, with a focus on <a href="https://federated.withgoogle.com/">Federated Learning</a>. Prior to PhD, I graduated from <a href="http://umji.sjtu.edu.cn">Shanghai Jiao Tong University</a>, advised by <a href="https://scholar.google.com/citations?user=oG2PlTsAAAAJ&hl=en">Xudong Wang</a>. 
        </p>
        <p>
-       My PhD thesis is <a href="../files/thesis.pdf">Unsupervised Learning for Large-Scale Data</a>. Code is available at <a href="https://github.com/wushanshan">my GitHub</a>. I can be reached at <a href="mailto:wushanshan0701@gmail.com">wushanshan0701@gmail.com</a>. 
+       My PhD thesis is <a href="../files/thesis.pdf">Unsupervised Learning for Large-Scale Data</a>. Code is available at <a href="https://github.com/wushanshan">my GitHub</a>. Here is my <a href="https://scholar.google.com/citations?user=AWuH7l0AAAAJ&hl=en">Google Scholar</a>. I can be reached at <a href="mailto:wushanshan0701@gmail.com">wushanshan0701@gmail.com</a>. 
         </p> 
         </td>
         <td width="20%">
@@ -20,7 +20,7 @@ title: Shanshan Wu
 
 ---
 
-Last update: April 9, 2024
+Last update: March 25, 2025
 
 ---
 
