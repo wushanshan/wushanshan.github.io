@@ -27,7 +27,7 @@ Last update: March 25, 2025
 ## Publications
 [**Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs**](https://arxiv.org/abs/2503.12347)  
 Bowen Tan, Zheng Xu, Eric Xing, Zhiting Hu, **Shanshan Wu**  
-Under submission, 2025
+International Conference on Machine Learning (**ICML**) 2025
 
 
 [**Prompt Public Large Language Models to Synthesize Data for Private On-device Applications**](https://arxiv.org/abs/2404.04360)  
