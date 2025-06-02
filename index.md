@@ -27,7 +27,7 @@ Last update: March 25, 2025
 ## Publications
 [**Synthesizing and Adapting Error Correction Data for Mobile Large Language Model Applications**](https://arxiv.org/abs/2505.18488)  
 Yanxiang Zhang\*, Zheng Xu\*, **Shanshan Wu\***, Yuanbo Zhang, Daniel Ramage  
-ACL 2025 (Industry track)  
+**ACL** 2025 (Industry track)  
 *Equal contribution. Reverse alphabetical order.  
 
 [**Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs**](https://arxiv.org/abs/2503.12347)  
