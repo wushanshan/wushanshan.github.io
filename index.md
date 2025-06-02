@@ -25,10 +25,15 @@ Last update: March 25, 2025
 ---
 
 ## Publications
+[**Synthesizing and Adapting Error Correction Data for Mobile Large Language Model Applications**](https://arxiv.org/abs/2505.18488)  
+Yanxiang Zhang\*, Zheng Xu\*, **Shanshan Wu\***, Yuanbo Zhang, Daniel Ramage  
+ACL 2025 (Industry track)  
+*Equal contribution. Reverse alphabetical order.  
+
 [**Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs**](https://arxiv.org/abs/2503.12347)  
 Bowen Tan, Zheng Xu, Eric Xing, Zhiting Hu, **Shanshan Wu**  
-International Conference on Machine Learning (**ICML**) 2025
-
+International Conference on Machine Learning (**ICML**) 2025  
+**Spotlight** Presentation at [DATA-FM Workshop @ ICLR 2025](https://datafm.github.io/)  
 
 [**Prompt Public Large Language Models to Synthesize Data for Private On-device Applications**](https://arxiv.org/abs/2404.04360)  
 **Shanshan Wu\***, Zheng Xu\*, Yanxiang Zhang\*, Yuanbo Zhang, Daniel Ramage  
