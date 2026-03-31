@@ -20,25 +20,33 @@ title: Shanshan Wu
 
 ---
 
-Last update: March 25, 2025
+Last update: March 31, 2026
 
 ---
 
 ## Publications
+[**MAPLE: Metadata Augmented Private Language Evolution**](https://arxiv.org/abs/2603.19258)  
+Eli Chien, Yuzheng Hu, Ryan McKenna, **Shanshan Wu**, Zheng Xu, Peter Kairouz  
+Under submission, 2026  
+
+[**ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control**](https://arxiv.org/abs/2510.18232)  
+Yuzheng Hu, Ryan McKenna, Da Yu, **Shanshan Wu**, Han Zhao, Zheng Xu, Peter Kairouz  
+Under submission, 2026  
+
 [**Synthesizing and Adapting Error Correction Data for Mobile Large Language Model Applications**](https://arxiv.org/abs/2505.18488)  
-Yanxiang Zhang\*, Zheng Xu\*, **Shanshan Wu\***, Yuanbo Zhang, Daniel Ramage  
-**ACL** 2025 (Industry track)  
-*Equal contribution. Reverse alphabetical order.  
+Yanxiang Zhang\*, Zheng Xu\*, **Shanshan Wu\***, Yuanbo Zhang, Daniel Ramage  (*Equal contribution. Reverse alphabetical order.)  
+**ACL** 2025 (Industry track)    
+Google Research Blogpost: [Synthetic and federated: Privacy-preserving domain adaptation with LLMs for mobile applications](https://goo.gle/3ILPnQz)  
 
 [**Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs**](https://arxiv.org/abs/2503.12347)  
 Bowen Tan, Zheng Xu, Eric Xing, Zhiting Hu, **Shanshan Wu**  
 International Conference on Machine Learning (**ICML**) 2025  
+Google Research Blogpost: [Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator](https://goo.gle/3JgA8zl)  
 **Spotlight** Presentation at [DATA-FM Workshop @ ICLR 2025](https://datafm.github.io/)  
 
 [**Prompt Public Large Language Models to Synthesize Data for Private On-device Applications**](https://arxiv.org/abs/2404.04360)  
-**Shanshan Wu\***, Zheng Xu\*, Yanxiang Zhang\*, Yuanbo Zhang, Daniel Ramage  
+**Shanshan Wu\***, Zheng Xu\*, Yanxiang Zhang\*, Yuanbo Zhang, Daniel Ramage  (*Equal contribution)  
 Conference on Language Modeling (**COLM**) 2024  
-*Equal contribution  
 
 [**Profit: Benchmarking Personalization and Robustness Trade-off in Federated Prompt Tuning**](https://arxiv.org/abs/2310.04627)  
 Liam Collins, **Shanshan Wu**, Sewoong Oh, Khe Chai Sim  
