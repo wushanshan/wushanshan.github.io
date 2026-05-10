@@ -20,7 +20,7 @@ title: Shanshan Wu
 
 ---
 
-Last update: March 31, 2026
+Last update: May 10, 2026
 
 ---
 
@@ -31,7 +31,7 @@ Under submission, 2026
 
 [**ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control**](https://arxiv.org/abs/2510.18232)  
 Yuzheng Hu, Ryan McKenna, Da Yu, **Shanshan Wu**, Han Zhao, Zheng Xu, Peter Kairouz  
-Under submission, 2026  
+International Conference on Machine Learning (**ICML**) 2026  
 
 [**Synthesizing and Adapting Error Correction Data for Mobile Large Language Model Applications**](https://arxiv.org/abs/2505.18488)  
 Yanxiang Zhang\*, Zheng Xu\*, **Shanshan Wu\***, Yuanbo Zhang, Daniel Ramage  (*Equal contribution. Reverse alphabetical order.)  
