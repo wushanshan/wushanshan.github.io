@@ -36,12 +36,12 @@ International Conference on Machine Learning (**ICML**) 2026
 [**Synthesizing and Adapting Error Correction Data for Mobile Large Language Model Applications**](https://arxiv.org/abs/2505.18488)  
 Yanxiang Zhang\*, Zheng Xu\*, **Shanshan Wu\***, Yuanbo Zhang, Daniel Ramage  (*Equal contribution. Reverse alphabetical order.)  
 **ACL** 2025 (Industry track)    
-Google Research Blogpost: [Synthetic and federated: Privacy-preserving domain adaptation with LLMs for mobile applications](https://goo.gle/3ILPnQz)  
+**Google Research Blogpost**: [Synthetic and federated: Privacy-preserving domain adaptation with LLMs for mobile applications](https://goo.gle/3ILPnQz)  
 
 [**Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs**](https://arxiv.org/abs/2503.12347)  
 Bowen Tan, Zheng Xu, Eric Xing, Zhiting Hu, **Shanshan Wu**  
 International Conference on Machine Learning (**ICML**) 2025  
-Google Research Blogpost: [Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator](https://goo.gle/3JgA8zl)  
+**Google Research Blogpost**: [Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator](https://goo.gle/3JgA8zl)  
 **Spotlight** Presentation at [DATA-FM Workshop @ ICLR 2025](https://datafm.github.io/)  
 
 [**Prompt Public Large Language Models to Synthesize Data for Private On-device Applications**](https://arxiv.org/abs/2404.04360)  
